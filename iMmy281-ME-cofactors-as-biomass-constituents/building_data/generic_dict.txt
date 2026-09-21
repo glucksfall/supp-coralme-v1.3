@@ -1,0 +1,13 @@
+generic_component	enzymes
+generic_16Sm4Cm1402
+generic_LYSINEaaRS
+generic_Dus
+generic_RF
+generic_Tuf
+generic_RNase
+generic_16s_rRNAs
+generic_23s_rRNAs
+generic_5s_rRNAs
+generic_fes_transfers_complex
+generic_protease	JCVISYN3A_0133-MONOMER,JCVISYN3A_0305-MONOMER,JCVISYN3A_0444-MONOMER,JCVISYN3A_0479-MONOMER
+generic_proteasome	JCVISYN3A_0394-MONOMER

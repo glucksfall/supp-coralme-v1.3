@@ -1,0 +1,5 @@
+mechanism	enzymes
+Transcription_normal_rho_dependent	NusA_mono,NusG_mono,GreA_mono
+Transcription_normal_rho_independent	NusA_mono,NusG_mono,GreA_mono
+Transcription_stable_rho_dependent	NusA_mono,NusG_mono,GreA_mono,RpsJ_mono,RpsD_mono,RplC_mono,RplD_mono,RplM_mono
+Transcription_stable_rho_independent	NusA_mono,NusG_mono,GreA_mono,RpsJ_mono,RpsD_mono,RplC_mono,RplD_mono,RplM_mono

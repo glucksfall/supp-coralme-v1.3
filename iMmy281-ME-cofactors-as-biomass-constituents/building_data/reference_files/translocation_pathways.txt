@@ -1,0 +1,14 @@
+pathway	enzyme
+bam	CPLX_dummy
+lol	CPLX_dummy
+sec	SecA_MONOMER
+secA	SecA_MONOMER
+srp	SRP-CPLX
+srp	FtsY_MONOMER
+srp	JCVISYN3A_0049
+srp_yidC	SRP-CPLX
+srp_yidC	JCVISYN3A_0049
+tat	CPLX_dummy
+tat_alt	CPLX_dummy
+yidC	SRP-CPLX
+yidC	JCVISYN3A_0049

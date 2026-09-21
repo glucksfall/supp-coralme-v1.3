@@ -1,0 +1,2 @@
+reaction_id,name,gene_reaction_rule,reaction,notes
+PDH,,JCVISYN3A_0227 and JCVISYN3A_0228,pyr_c  + coa_c + nad_c --> accoa_c + co2_c + nadh_c,
