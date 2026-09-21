@@ -1,0 +1,13 @@
+{
+	"ME-Model-ID" : "mycoplasmaME",
+
+	"m-model-path" : "iMmy281-ME-inputs/m_model_mass_balanced_including_protons.json",
+	"genbank-path" : "iMmy281-ME-inputs/genome.gb",
+
+	"df_gene_cplxs_mods_rxns" : "iMmy281-ME-inputs/automated-org-with-refs.xlsx",
+	"df_TranscriptionalUnits" : "",
+	"df_matrix_stoichiometry" : "iMmy281-ME-inputs/reaction_matrix.txt",
+	"df_matrix_subrxn_stoich" : "iMmy281-ME-inputs/subreaction_matrix.txt",
+	"df_metadata_orphan_rxns" : "",
+	"df_metadata_metabolites" : "iMmy281-ME-inputs/me_metabolites.txt"
+}

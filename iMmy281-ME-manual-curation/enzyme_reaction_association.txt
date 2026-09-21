@@ -1,0 +1,6 @@
+Reaction	Complexes
+GLNTRATa	GlnS_tri
+GLNTRATb	GlnS_tri
+PDH	PDH_1_CPLX_mod_thmpp(1)_mod_lipoyl(1)_mod_fad(1) OR PDH_2_CPLX_mod_thmpp(1)_mod_lipoyl(1)_mod_fad(1)
+acpP_activation	JCVISYN3A_0513-MONOMER
+lipoyl_scavenging	JCVISYN3A_0401-MONOMER

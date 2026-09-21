@@ -1,0 +1,58 @@
+{
+	"complex_cofactors" : {
+		"fes_transfers" : [],
+		"fes_chaperones" : {},
+		"lipoate_subreactions" : { "mod_lipoyl_c" : [ "lipoyl_scavenging" ] },
+		"biotin_subreactions" : { "mod_btn_c" : [ "biotin_ligase" ] },
+		"acps_subreactions" : { "mod_pan4p_c" : [ "acpP_activation" ] },
+		"bmocogdp_chaperones" : {},
+		"FeFe/NiFe" : { "mod_NiFe_cofactor_c" : [] }
+		},
+
+	"trna_misacylation" : { "Gln" : "Glu" },
+
+	"START_tRNA" : [ "JCVISYN3A_0720", "JCVISYN3A_0721", "JCVISYN3A_0723" ],
+
+	"ncRNAs" : { "ffs" : "JCVISYN3A_0049", "rnpB" : "JCVISYN3A_0356" },
+
+	"peptide_release_factors" : {
+		"UAG": "JCVISYN3A_0141-MONOMER",
+		"UAA": "JCVISYN3A_0141-MONOMER"
+		},
+
+	"flux_of_dna_constituents" : {
+		"datp_c": -0.000057,
+		"dctp_c": -0.000038,
+		"dgtp_c": -0.000022,
+		"dttp_c": -0.000068
+		},
+
+	"flux_of_biomass_constituents" : {
+		"JCVISYN3A_0447-MONOMER": 1e-06,
+		"JCVISYN3A_0621-MONOMER_mod_pan4p(1)": -2.1e-05
+		},
+
+	"flux_of_lipid_constituents" : {
+		"12dgr_c": -0.022954,
+		"chsterol_c": -0.039664,
+		"clpn_c": -0.02097,
+		"fa_c": -0.020433,
+		"galfur12dgr_c": -0.017299,
+		"lgltn_c": -0.004288,
+		"pg_c": -0.039359,
+		"tag_c": -0.006481
+		},
+
+	"defer_to_rxn_matrix" : [
+		"FMETTRS", "DNAP", "RNAP", "ACPS", "LIPTA",
+		"ACP_transl", "PdhC_transl", "dUTPase_transl",
+		"Protein_transl", "Protein_degrad", "RNA_degrad",
+		"ACPS", "LIPTA",
+		"PDH_E1", "PDH_E2", "PDH_E3", "PDH_acald",
+		"GLNTRAT", "GLNTRAT2", "GLUTRS", "GLUTRS_Gln",
+		"METTRS", "ILETRS", "VALTRS", "LEUTRS", "CYSTRS",
+		"ARGTRS", "TYRTRS", "TRPTRS", "SERTRS", "THRTRS",
+		"PROTRS", "ASPTRS", "ASNTRS", "LYSTRS",
+		"HISTRS", "PHETRS", "ALATRS", "GLYTRS"
+    ]
+}

@@ -1,0 +1,13 @@
+metabolite_id,name,formula,charge,notes
+fe2_c,Iron,Fe,2,Manual
+mn2_c,Manganese,Mn,2,Manual
+zn2_c,Zinc,Zn,2,Manual
+acala__L_c,N-acetyl-L-alanine,C5H9NO3,0,Manual
+#12dgr_c,"1,2-dipalmitoyl-sn-glycerol",C35H68O5,0,Manual
+#clpn_c,Cardiolipin(16:0/16:0/16:0/16:0),C73H142O17P2,0,Manual
+#fa_c,Hexadecanoic acid,C16H32O2,0,Manual
+#ap_c,Hexadecanoyl phosphate,C16H33O5P,0,Manual
+#galfur12dgr_c,"1,2-dipalmitoyl-3-beta-D-galactosyl-sn-glycerol",C41H78O10,0,Manual
+#lgltn_c,lipogalactan,C563H948O445,0,Manual
+#pg_c,"1,2-dihexadecanoyl-sn-glycero-3-phospho-(1'-sn-glycerol)",C38H75O10P,0,Manual
+#tag_c,"1,2,3-trihexadecanoyl-sn-glycerol",C51H98O6,0,Manual

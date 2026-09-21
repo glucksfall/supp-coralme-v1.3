@@ -1,0 +1,24 @@
+Reaction	Metabolites	Stoichiometry
+# Acetylation of proteins
+mod_acetyl_c	accoa_c	-1.0
+mod_acetyl_c	coa_c	+1.0
+
+# CoA-[4'-phosphopantetheine]:apo-[acyl-carrier protein] 4'-pantetheinephosphotransferase
+acpP_activation	coa_c	-1.0
+acpP_activation	pap_c	+1.0
+
+# Source of lipoate is N(6)-lipoyl-L-lysine (PubChem 14345430)
+lipoyl_scavenging	lplys__L_c	-1.0
+lipoyl_scavenging	h2o_c	-1.0
+lipoyl_scavenging	atp_c	-1.0
+lipoyl_scavenging	amp_c	1.0
+lipoyl_scavenging	ppi_c	1.0
+lipoyl_scavenging	lys__L_c	1.0
+
+m7G,m5U,Gm,Cm,Um,m1G,m6A,m2A,m3Y,m5C,m2G,m3U	amet_c	-1.0
+m7G,m5U,Gm,Cm,Um,m1G,m6A,m2A,m3Y,m5C,m2G,m3U	ahcys_c	1.0
+
+Y	asp__L_c	0.0
+
+m4Cm,m62A	amet_c	-2.0
+m4Cm,m62A	ahcys_c	2.0

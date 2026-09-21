@@ -1,0 +1,58 @@
+id	me_id	name	formula	compartment	type
+# Correct these metabolites with new formulas
+mn2_c	mn2_c	magnesium	Mg	Cytoplasm	CORRECTION
+zn2_c	zn2_c	zinc	Zn	Cytoplasm	CORRECTION
+cobalt2_c	cobalt2_c	cobalt	Co	Cytoplasm	CORRECTION
+cd2_c	cd2_c	cadmiun	Cd	Cytoplasm	CORRECTION
+ni2_c	ni2_c	nickel	Ni	Cytoplasm	CORRECTION
+nh4_c	nh4_c	ammonium	NH4	Cytoplasm	CORRECTION
+fe2_c	fe2_c	iron	Fe	Cytoplasm	CORRECTION
+
+tl_c	tl_c	thallium ion	Tl		CORRECTION
+cs_c	cs_c	cesium ion	Cs		CORRECTION
+hemed_c	hemed_c	heme D	C34H32N4O6Fe		CORRECTION
+pqq_c	pqq_c	pyrroloquinoline quinone	C14H3N2O8		CORRECTION
+
+# Modifications in other proteins. These formulas are needed to recalculate correctly the formulas of the complexes.
+	tl	thallium ion	Tl		COFACTOR
+	cs	cesium ion	Cs		COFACTOR
+	pqq	pyrroloquinoline quinone	C14H3N2O8		COFACTOR
+	lipoyl	Lipoyl moiety (-H20)	C8H12OS2		COFACTOR
+	dpm	Dipyrromethane	C20H20N2O8		COFACTOR
+	NiFe_cofactor	[NiFe]-dehydrogenase cofactor	NiFeCOC2N2		COFACTOR
+	23bpg	2,3-Bisphospho-D-glycerate	C3H3O10P2	Cytoplasm	COFACTOR
+
+	acetyl	Acetyl	C2H2O		COFACTOR
+	hemed	heme D	C34H32N4O6Fe		COFACTOR
+	SH	Sulfur in an [enzyme]-S-sulfanylcysteine	S		COFACTOR
+	3fe4s	[3Fe-4S] cluster	Fe3S4		COFACTOR
+	2fe1s	[2Fe-1S] cluster	Fe2S1		COFACTOR
+
+	coo	coordinated carbon dioxyde	CO2		COFACTOR
+	amp	Adenosine 5'-monophosphate	C10H12N5O6P		COFACTOR
+
+# Modifications in the acyl-carrier protein. These formulas are needed to recalculate correctly the formulas of the ACP complexes.
+	acyl	Hexadecanoyl phosphate (-H2O)	C16H31O		MOD
+	pan4p	Pantetheine 4'-phosphate (-H2O)	C11H20N2O6PS		COFACTOR
+
+# Modifications in the PDH complex. These formulas are needed to recalculate correctly the formulas of the PDH complexes.
+	acdhlpl	S-acetyl-dihydrolipoamide	C10H16O2S2		COFACTOR
+	lpl	Lipoamide	C8H12OS2		COFACTOR
+	dhlpl	Dihydrolipoamide	C8H14OS2		COFACTOR
+
+# Modifications in the glycine cleavage complex. These formulas are needed to recalculate correctly the formulas of the GCV complexes.
+	samdhl	S8-aminomethyldihydrolipoyl	C9H20NO2S2		COFACTOR
+	dhl	Dihydrolipoyl	C8H16O2S2		COFACTOR
+
+# Metabolites to protein complexes
+apoACP_c	JCVISYN3A_0621-MONOMER	acyl-carrier protein		Cytoplasm	REPLACE
+ACP_c	JCVISYN3A_0621-MONOMER_mod_pan4p(1)	holo-[acyl-carrier protein]		Cytoplasm	REPLACE
+ACP_R_c	JCVISYN3A_0621-MONOMER_mod_pan4p(1)_mod_acyl(1)	acyl-[acyl-carrier protein]		Cytoplasm	REPLACE
+
+trdrd_c	JCVISYN3A_0065-MONOMER				REPLACE
+trdox_c	JCVISYN3A_0065-MONOMER_mod_Oxidized(1)				REPLACE
+
+acdhlpl_PdhC_c	JCVISYN3A_0227-MONOMER_mod_acdhlpl(1)				REPLACE
+lpl_PdhC_c	JCVISYN3A_0227-MONOMER_mod_lipoyl(1)				REPLACE
+dhlpl_PdhC_c	JCVISYN3A_0227-MONOMER_mod_dhlpl(1)				REPLACE
+PdhC_c	JCVISYN3A_0227-MONOMER				REPLACE

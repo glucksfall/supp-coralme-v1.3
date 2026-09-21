@@ -1,0 +1,19 @@
+Reaction	Metabolites	Stoichiometry
+# ATP + L-glutamyl-tRNAGln + L-glutamine => ADP + phosphate + L-glutaminyl-tRNAGln + L-glutamate (overall reaction)
+GLNTRATa	atp_c	-1.0
+GLNTRATa	gln__L_c	-1.0
+GLNTRATa	generic_tRNA_CAA_glu__L_c	-1.0
+GLNTRATa	h2o_c	-1.0
+GLNTRATa	adp_c	1.0
+GLNTRATa	generic_tRNA_CAA_gln__L_c	1.0
+GLNTRATa	glu__L_c	1.0
+GLNTRATa	pi_c	1.0
+
+GLNTRATb	atp_c	-1.0
+GLNTRATb	gln__L_c	-1.0
+GLNTRATb	generic_tRNA_CAG_glu__L_c	-1.0
+GLNTRATb	h2o_c	-1.0
+GLNTRATb	adp_c	1.0
+GLNTRATb	generic_tRNA_CAG_gln__L_c	1.0
+GLNTRATb	glu__L_c	1.0
+GLNTRATb	pi_c	1.0
