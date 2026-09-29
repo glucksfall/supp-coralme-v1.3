@@ -1,6 +1,6 @@
 id	me_id	name	formula	compartment	type
 # Correct these metabolites with new formulas
-mn2_c	mn2_c	magnesium	Mg	Cytoplasm	CORRECTION
+mn2_c	mn2_c	manganese	Mn	Cytoplasm	CORRECTION
 zn2_c	zn2_c	zinc	Zn	Cytoplasm	CORRECTION
 cobalt2_c	cobalt2_c	cobalt	Co	Cytoplasm	CORRECTION
 cd2_c	cd2_c	cadmiun	Cd	Cytoplasm	CORRECTION
