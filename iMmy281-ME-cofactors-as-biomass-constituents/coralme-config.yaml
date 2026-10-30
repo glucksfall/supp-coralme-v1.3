@@ -86,7 +86,7 @@ defer_to_rxn_matrix:
 - ALATRS
 - GLYTRS
 - ATPM
-dev_reference: true
+dev_reference: iJL1678b
 df_TranscriptionalUnits: iMmy281-ME-cofactors-as-biomass-constituents/building_data/TUs_from_biocyc.txt
 df_gene_cplxs_mods_rxns: iMmy281-ME-inputs/automated-org-with-refs.xlsx
 df_matrix_stoichiometry: iMmy281-ME-inputs/reaction_matrix.txt

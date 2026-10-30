@@ -1,0 +1,5 @@
+mechanism	enzymes
+Transcription_normal_rho_dependent	CPLX_dummy
+Transcription_normal_rho_independent	CPLX_dummy
+Transcription_stable_rho_dependent	CPLX_dummy
+Transcription_stable_rho_independent	CPLX_dummy

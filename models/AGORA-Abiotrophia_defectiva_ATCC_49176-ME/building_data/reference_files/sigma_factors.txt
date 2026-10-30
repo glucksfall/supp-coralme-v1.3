@@ -1,0 +1,10 @@
+sigma,complex,genes,name
+592010.4.peg.1143-MONOMER,RNAP_5920104peg1143MONOMER,592010.4.peg.1143(),"RNA polymerase sigma-70 factor, ECF subfamily"
+592010.4.peg.1176-MONOMER,RNAP_5920104peg1176MONOMER,592010.4.peg.1176(),"RNA polymerase sigma-70 factor, ECF subfamily"
+592010.4.peg.1226-MONOMER,RNAP_5920104peg1226MONOMER,592010.4.peg.1226(),"RNA polymerase sigma-70 factor, ECF subfamily"
+592010.4.peg.2209-MONOMER,RNAP_5920104peg2209MONOMER,592010.4.peg.2209(),"RNA polymerase sigma-70 factor, ECF subfamily"
+592010.4.peg.2417-MONOMER,RNAP_5920104peg2417MONOMER,592010.4.peg.2417(),"RNA polymerase sigma-70 factor, ECF subfamily"
+592010.4.peg.2579-MONOMER,RNAP_5920104peg2579MONOMER,592010.4.peg.2579(),RNA polymerase sigma factor FliA
+592010.4.peg.514-MONOMER,RNAP_5920104peg514MONOMER,592010.4.peg.514(),RNA polymerase primary sigma factor
+592010.4.peg.649-MONOMER,RNAP_5920104peg649MONOMER,592010.4.peg.649(),RNA polymerase primary sigma factor
+592010.4.peg.991-MONOMER,RNAP_5920104peg991MONOMER,592010.4.peg.991(),RNA polymerase sporulation-specific sigma factor

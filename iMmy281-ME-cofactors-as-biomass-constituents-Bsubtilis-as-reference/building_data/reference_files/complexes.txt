@@ -1,0 +1,791 @@
+,name,genes,source
+JCVISYN3A_0001-MONOMER,Chromosomal replication initiator protein,JCVISYN3A_0001(),GenBank
+JCVISYN3A_0002-MONOMER,DNA polymerase III subunit beta,JCVISYN3A_0002(),GenBank
+JCVISYN3A_0003-MONOMER,Ribonuclease M5,JCVISYN3A_0003(),GenBank
+JCVISYN3A_0004-MONOMER,16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))- dimethyltransferase,JCVISYN3A_0004(1),GenBank
+JCVISYN3A_0005-MONOMER,Uncharacterized protein,JCVISYN3A_0005(),GenBank
+JCVISYN3A_0006-MONOMER,DNA gyrase subunit B,JCVISYN3A_0006(),GenBank
+JCVISYN3A_0007-MONOMER,DNA gyrase subunit A,JCVISYN3A_0007(),GenBank
+JCVISYN3A_0008-MONOMER,Nucleoside ABC transporter permease,JCVISYN3A_0008(),GenBank
+JCVISYN3A_0009-MONOMER,Nucleoside ABC transporter permease,JCVISYN3A_0009(),GenBank
+JCVISYN3A_0010-MONOMER,Nucleoside ABC transporter ATP-binding protein,JCVISYN3A_0010(),GenBank
+JCVISYN3A_0011-MONOMER,Nucleoside ABC transporter substrate-binding protein,JCVISYN3A_0011(),GenBank
+JCVISYN3A_0012-MONOMER,Methionine--tRNA ligase,JCVISYN3A_0012(2),GenBank
+JCVISYN3A_0918-MONOMER,Imidazoleglycerol-phosphate dehydratase,JCVISYN3A_0918(2),GenBank
+JCVISYN3A_0913-MONOMER,Tetracycline resistance ribosomal protection protein,JCVISYN3A_0913(),GenBank
+JCVISYN3A_0025-MONOMER,30S ribosomal protein S18,JCVISYN3A_0025(1),GenBank
+JCVISYN3A_0026-MONOMER,Single-stranded DNA-binding protein,JCVISYN3A_0026(),GenBank
+JCVISYN3A_0027-MONOMER,30S ribosomal protein S6,JCVISYN3A_0027(1),GenBank
+JCVISYN3A_0029-MONOMER,Uncharacterized FMN-dependent NADH-azoreductase,JCVISYN3A_0029(),GenBank
+JCVISYN3A_0030-MONOMER,Uncharacterized ABC transporter ATP-binding protein,JCVISYN3A_0030(),GenBank
+JCVISYN3A_0033-MONOMER,Uncharacterized protein,JCVISYN3A_0033(),GenBank
+JCVISYN3A_0034-MONOMER,Uncharacterized efflux ABC transporter permease,JCVISYN3A_0034(),GenBank
+JCVISYN3A_0039-MONOMER,Membrane anchored AAA+ protease,JCVISYN3A_0039(),GenBank
+JCVISYN3A_0040-MONOMER,tRNA lysidine(34) synthetase,JCVISYN3A_0040(1),GenBank
+JCVISYN3A_0042-MONOMER,Uncharacterized transcriptional regulator,JCVISYN3A_0042(),GenBank
+JCVISYN3A_0043-MONOMER,Uncharacterized methyltransferase,JCVISYN3A_0043(),GenBank
+JCVISYN3A_0044-MONOMER,DNA polymerase III subunit delta,JCVISYN3A_0044(),GenBank
+JCVISYN3A_0045-MONOMER,dTMP kinase,JCVISYN3A_0045(1),GenBank
+JCVISYN3A_0046-MONOMER,Recombination protein,JCVISYN3A_0046(),GenBank
+JCVISYN3A_0047-MONOMER,DNA polymerase III subunit gamma and tau,JCVISYN3A_0047(),GenBank
+JCVISYN3A_0054-MONOMER,Uncharacterized peroxiredoxin,JCVISYN3A_0054(1),GenBank
+JCVISYN3A_0060-MONOMER,Uncharacterized protein,JCVISYN3A_0060(),GenBank
+JCVISYN3A_0061-MONOMER,Serine--tRNA ligase,JCVISYN3A_0061(2),GenBank
+JCVISYN3A_0063-MONOMER,Uncharacterized tRNA dihydrouridine synthase,JCVISYN3A_0063(1),GenBank
+JCVISYN3A_0064-MONOMER,Lysine--tRNA ligase,JCVISYN3A_0064(2),GenBank
+JCVISYN3A_0065-MONOMER,Thioredoxin,JCVISYN3A_0065(1),GenBank
+JCVISYN3A_0066-MONOMER,Low specificity hydrolase,JCVISYN3A_0066(),GenBank
+JCVISYN3A_0076-MONOMER,Asparagine--tRNA ligase,JCVISYN3A_0076(2),GenBank
+JCVISYN3A_0077-MONOMER,Uncharacterized hydrolase,JCVISYN3A_0077(),GenBank
+JCVISYN3A_0079-MONOMER,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit D,JCVISYN3A_0079(),GenBank
+JCVISYN3A_0080-MONOMER,Uncharacterized protein,JCVISYN3A_0080(),GenBank
+JCVISYN3A_0081-MONOMER,tRNA uridine(34) 5-carboxymethylaminomethyl synthesis GTPase,JCVISYN3A_0081(2),GenBank
+JCVISYN3A_0082-MONOMER,30S ribosomal protein S20,JCVISYN3A_0082(1),GenBank
+JCVISYN3A_0094-MONOMER,Uncharacterized protein,JCVISYN3A_0094(),GenBank
+JCVISYN3A_0095-MONOMER,Preprotein translocase subunit A,JCVISYN3A_0095(1),GenBank
+JCVISYN3A_0097-MONOMER,Uncharacterized 5'-3' exonuclease,JCVISYN3A_0097(),GenBank
+JCVISYN3A_0105-MONOMER,Exodeoxyribonuclease VII small subunit,JCVISYN3A_0105(),GenBank
+JCVISYN3A_0106-MONOMER,Exodeoxyribonuclease VII large subunit,JCVISYN3A_0106(),GenBank
+JCVISYN3A_0107-MONOMER,Transcription antitermination factor,JCVISYN3A_0107(),GenBank
+JCVISYN3A_0108-MONOMER,Uncharacterized lipoprotein,JCVISYN3A_0108(),GenBank
+JCVISYN3A_0109-MONOMER,Deoxyribonuclease IV,JCVISYN3A_0109(),GenBank
+JCVISYN3A_0113-MONOMER,Glycolipid synthase A,JCVISYN3A_0113(),GenBank
+JCVISYN3A_0114-MONOMER,Glycolipid synthase B,JCVISYN3A_0114(),GenBank
+JCVISYN3A_0115-MONOMER,UTP--glucose-1-phosphate uridylyltransferase,JCVISYN3A_0115(1),GenBank
+JCVISYN3A_0116-MONOMER,Uncharacterized protein,JCVISYN3A_0116(),GenBank
+JCVISYN3A_0117-MONOMER,Acyl-phosphate glycerol 3-phosphate acyltransferase,JCVISYN3A_0117(1),GenBank
+JCVISYN3A_0126-MONOMER,Glutamate--tRNA ligase,JCVISYN3A_0126(1),GenBank
+JCVISYN3A_0127-MONOMER,Uncharacterized phosphohydrolase,JCVISYN3A_0127(),GenBank
+JCVISYN3A_0128-MONOMER,DNA-directed RNA polymerase subunit delta,JCVISYN3A_0128(),GenBank
+JCVISYN3A_0129-MONOMER,CTP synthase,JCVISYN3A_0129(4),GenBank
+JCVISYN3A_0131-MONOMER,"Fructose-1,6-bisphosphate aldolase",JCVISYN3A_0131(),GenBank
+JCVISYN3A_0132-MONOMER,Toxin-antitoxin AAA ATPase,JCVISYN3A_0132(),GenBank
+JCVISYN3A_0133-MONOMER,Toxin-antitoxin serine protease,JCVISYN3A_0133(),GenBank
+JCVISYN3A_0137-MONOMER,50S ribosomal protein L31,JCVISYN3A_0137(1),GenBank
+JCVISYN3A_0138-MONOMER,Uncharacterized protein,JCVISYN3A_0138(),GenBank
+JCVISYN3A_0139-MONOMER,NanoRNAse,JCVISYN3A_0139(),GenBank
+JCVISYN3A_0140-MONOMER,Thymidine kinase,JCVISYN3A_0140(1),GenBank
+JCVISYN3A_0141-MONOMER,Peptide chain release factor 1,JCVISYN3A_0141(1),GenBank
+JCVISYN3A_0142-MONOMER,"Protein-(glutamine-N5) methyltransferase, release factor-specific",JCVISYN3A_0142(),GenBank
+JCVISYN3A_0143-MONOMER,Uncharacterized protein,JCVISYN3A_0143(),GenBank
+JCVISYN3A_0144-MONOMER,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit,JCVISYN3A_0144(),GenBank
+JCVISYN3A_0145-MONOMER,Uncharacterized acetyltransferase,JCVISYN3A_0145(),GenBank
+JCVISYN3A_0146-MONOMER,Uncharacterized protein,JCVISYN3A_0146(),GenBank
+JCVISYN3A_0147-MONOMER,Cardiolipin synthase,JCVISYN3A_0147(),GenBank
+JCVISYN3A_0148-MONOMER,30S ribosomal protein S12,JCVISYN3A_0148(1),GenBank
+JCVISYN3A_0149-MONOMER,30S ribosomal protein S7,JCVISYN3A_0149(1),GenBank
+JCVISYN3A_0150-MONOMER,Translation elongation factor G,JCVISYN3A_0150(1),GenBank
+JCVISYN3A_0151-MONOMER,Translation elongation factor Tu,JCVISYN3A_0151(1),GenBank
+JCVISYN3A_0163-MONOMER,Alanine--tRNA ligase,JCVISYN3A_0163(4),GenBank
+JCVISYN3A_0164-MONOMER,Uncharacterized protein,JCVISYN3A_0164(),GenBank
+JCVISYN3A_0165-MONOMER,Oligopeptide ABC transporter permease,JCVISYN3A_0165(),GenBank
+JCVISYN3A_0166-MONOMER,Oligopeptide ABC transporter permease,JCVISYN3A_0166(),GenBank
+JCVISYN3A_0167-MONOMER,Oligopeptide ABC transporter ATP-binding protein,JCVISYN3A_0167(),GenBank
+JCVISYN3A_0168-MONOMER,Oligopeptide ABC transporter ATP-binding protein,JCVISYN3A_0168(),GenBank
+JCVISYN3A_0169-MONOMER,Oligopeptide ABC transporter substrate-binding protein,JCVISYN3A_0169(),GenBank
+JCVISYN3A_0195-MONOMER,Spermidine/putrescine ABC transporter permease,JCVISYN3A_0195(),GenBank
+JCVISYN3A_0196-MONOMER,Spermidine/putrescine ABC transporter permease,JCVISYN3A_0196(),GenBank
+JCVISYN3A_0197-MONOMER,Spermidine/putrescine ABC transporter ATP-binding protein,JCVISYN3A_0197(),GenBank
+JCVISYN3A_0198-MONOMER,50S ribosomal protein L20,JCVISYN3A_0198(1),GenBank
+JCVISYN3A_0199-MONOMER,50S ribosomal protein L35,JCVISYN3A_0199(1),GenBank
+JCVISYN3A_0200-MONOMER,Translation initiation factor IF-3,JCVISYN3A_0200(1),GenBank
+JCVISYN3A_0201-MONOMER,Peptide deformylase,JCVISYN3A_0201(),GenBank
+JCVISYN3A_0202-MONOMER,16S rRNA (guanine(966)-N(2))-methyltransferase,JCVISYN3A_0202(),GenBank
+JCVISYN3A_0203-MONOMER,Guanylate kinase,JCVISYN3A_0203(2),GenBank
+JCVISYN3A_0213-MONOMER,Phosphopyruvate hydratase,JCVISYN3A_0213(2),GenBank
+JCVISYN3A_0214-MONOMER,Phosphatidylglycerophosphatase,JCVISYN3A_0214(),GenBank
+JCVISYN3A_0215-MONOMER,Putative pre-16S rRNA nuclease,JCVISYN3A_0215(),GenBank
+JCVISYN3A_0216-MONOMER,Hypoxanthine phosphoribosyltransferase,JCVISYN3A_0216(4),GenBank
+JCVISYN3A_0218-MONOMER,Glycerol kinase,JCVISYN3A_0218(4),GenBank
+JCVISYN3A_0220-MONOMER,6-Phosphofructokinase,JCVISYN3A_0220(4),GenBank
+JCVISYN3A_0221-MONOMER,Pyruvate kinase,JCVISYN3A_0221(4),GenBank
+JCVISYN3A_0222-MONOMER,Threonine--tRNA ligase,JCVISYN3A_0222(),GenBank
+JCVISYN3A_0227-MONOMER,Branched-chain alpha-keto acid dehydrogenase subunit E2,JCVISYN3A_0227(),GenBank
+JCVISYN3A_0228-MONOMER,Dihydrolipoyl dehydrogenase,JCVISYN3A_0228(),GenBank
+JCVISYN3A_0229-MONOMER,Phosphate acetyltransferase,JCVISYN3A_0229(2),GenBank
+JCVISYN3A_0230-MONOMER,Acetate kinase,JCVISYN3A_0230(1),GenBank
+JCVISYN3A_0233-MONOMER,Phosphoenolpyruvate--protein phosphotransferase,JCVISYN3A_0233(1),GenBank
+JCVISYN3A_0234-MONOMER,PTS glucose transporter subunit IIA,JCVISYN3A_0234(),GenBank
+JCVISYN3A_0235-MONOMER,Uncharacterized protein,JCVISYN3A_0235(),GenBank
+JCVISYN3A_0238-MONOMER,30S ribosomal protein S4,JCVISYN3A_0238(1),GenBank
+JCVISYN3A_0239-MONOMER,Uncharacterized protein,JCVISYN3A_0239(),GenBank
+JCVISYN3A_0240-MONOMER,tRNA 4-thiouridine(8) synthase,JCVISYN3A_0240(1),GenBank
+JCVISYN3A_0247-MONOMER,Ribosome biogenesis GTP-binding protein,JCVISYN3A_0247(),GenBank
+JCVISYN3A_0248-MONOMER,Uncharacterized protein,JCVISYN3A_0248(),GenBank
+JCVISYN3A_0249-MONOMER,Uncharacterized protein,JCVISYN3A_0249(),GenBank
+JCVISYN3A_0250-MONOMER,Uncharacterized protein,JCVISYN3A_0250(),GenBank
+JCVISYN3A_0253-MONOMER,Transcription elongation factor,JCVISYN3A_0253(1),GenBank
+JCVISYN3A_0254-MONOMER,Excinuclease ABC subunit C,JCVISYN3A_0254(),GenBank
+JCVISYN3A_0257-MONOMER,RNase J family beta-CASP ribonuclease,JCVISYN3A_0257(),GenBank
+JCVISYN3A_0259-MONOMER,NAD(+) kinase,JCVISYN3A_0259(6),GenBank
+JCVISYN3A_0260-MONOMER,Valine--tRNA ligase,JCVISYN3A_0260(1),GenBank
+JCVISYN3A_0262-MONOMER,Ribulose-phosphate 3-epimerase,JCVISYN3A_0262(1),GenBank
+JCVISYN3A_0263-MONOMER,Ribosome small subunit-dependent GTPase A,JCVISYN3A_0263(1),GenBank
+JCVISYN3A_0264-MONOMER,Uncharacterized serine/threonine protein kinase,JCVISYN3A_0264(),GenBank
+JCVISYN3A_0270-MONOMER,tRNA (N6-adenosine(37)-N6)-threonylcarbamoyltransferase complex ATPase,JCVISYN3A_0270(),GenBank
+JCVISYN3A_0271-MONOMER,tRNA N6-adenosine(37)-N6-threonylcarbamoyltransferase complex dimerization subunit,JCVISYN3A_0271(),GenBank
+JCVISYN3A_0281-MONOMER,Uncharacterized protein,JCVISYN3A_0281(),GenBank
+JCVISYN3A_0282-MONOMER,Proline--tRNA ligase,JCVISYN3A_0282(),GenBank
+JCVISYN3A_0283-MONOMER,Double-stranded RNA binding RNase HI,JCVISYN3A_0283(),GenBank
+JCVISYN3A_0285-MONOMER,Elongation factor 4,JCVISYN3A_0285(),GenBank
+JCVISYN3A_0286-MONOMER,Uncharacterized protein,JCVISYN3A_0286(),GenBank
+JCVISYN3A_0287-MONOMER,Aspartate--tRNA ligase,JCVISYN3A_0287(2),GenBank
+JCVISYN3A_0288-MONOMER,Histidine--tRNA ligase,JCVISYN3A_0288(2),GenBank
+JCVISYN3A_0289-MONOMER,Ribosome-binding factor A,JCVISYN3A_0289(),GenBank
+JCVISYN3A_0290-MONOMER,tRNA pseudouridine(55) synthase,JCVISYN3A_0290(1),GenBank
+JCVISYN3A_0291-MONOMER,FAD synthetase,JCVISYN3A_0291(1),GenBank
+JCVISYN3A_0294-MONOMER,30S ribosomal protein S15,JCVISYN3A_0294(1),GenBank
+JCVISYN3A_0296-MONOMER,Uncharacterized protein,JCVISYN3A_0296(),GenBank
+JCVISYN3A_0297-MONOMER,Translation initiation factor IF-2,JCVISYN3A_0297(1),GenBank
+JCVISYN3A_0298-MONOMER,Uncharacterized L7Ae family protein,JCVISYN3A_0298(),GenBank
+JCVISYN3A_0299-MONOMER,Uncharacterized protein,JCVISYN3A_0299(),GenBank
+JCVISYN3A_0300-MONOMER,Transcription termination/antitermination protein NusA,JCVISYN3A_0300(1),GenBank
+JCVISYN3A_0301-MONOMER,Ribosome assembly cofactor,JCVISYN3A_0301(),GenBank
+JCVISYN3A_0302-MONOMER,Flavin reductase,JCVISYN3A_0302(2),GenBank
+JCVISYN3A_0303-MONOMER,PolC-type DNA polymerase III,JCVISYN3A_0303(),GenBank
+JCVISYN3A_0304-MONOMER,Phosphatidate cytidylyltransferase,JCVISYN3A_0304(1),GenBank
+JCVISYN3A_0305-MONOMER,Uncharacterized metallopeptidase,JCVISYN3A_0305(),GenBank
+JCVISYN3A_0308-MONOMER,Tryptophan--tRNA ligase,JCVISYN3A_0308(2),GenBank
+JCVISYN3A_0314-MONOMER,Uncharacterized ECF transporter S component,JCVISYN3A_0314(),GenBank
+JCVISYN3A_0315-MONOMER,Uncharacterized protein,JCVISYN3A_0315(),GenBank
+JCVISYN3A_0316-MONOMER,Transketolase,JCVISYN3A_0316(2),GenBank
+JCVISYN3A_0317-MONOMER,Uncharacterized protein,JCVISYN3A_0317(),GenBank
+JCVISYN3A_0325-MONOMER,Uncharacterized protein,JCVISYN3A_0325(),GenBank
+JCVISYN3A_0326-MONOMER,Uncharacterized protein,JCVISYN3A_0326(),GenBank
+JCVISYN3A_0327-MONOMER,Chromosome segregation protein A,JCVISYN3A_0327(),GenBank
+JCVISYN3A_0328-MONOMER,Chromosome segregation protein B,JCVISYN3A_0328(),GenBank
+JCVISYN3A_0329-MONOMER,Uncharacterized pseudouridine synthase,JCVISYN3A_0329(1),GenBank
+JCVISYN3A_0330-MONOMER,Deoxyguanosine kinase,JCVISYN3A_0330(),GenBank
+JCVISYN3A_0332-MONOMER,Uncharacterized protein,JCVISYN3A_0332(),GenBank
+JCVISYN3A_0338-MONOMER,Uncharacterized lipoprotein,JCVISYN3A_0338(),GenBank
+JCVISYN3A_0344-MONOMER,Inorganic diphosphatase,JCVISYN3A_0344(),GenBank
+JCVISYN3A_0345-MONOMER,Uncharacterized ECF transporter S component,JCVISYN3A_0345(),GenBank
+JCVISYN3A_0346-MONOMER,Uncharacterized protein,JCVISYN3A_0346(),GenBank
+JCVISYN3A_0347-MONOMER,Cytidylate kinase,JCVISYN3A_0347(1),GenBank
+JCVISYN3A_0348-MONOMER,Ribosome biogenesis GTPase,JCVISYN3A_0348(),GenBank
+JCVISYN3A_0350-MONOMER,DNA-binding protein,JCVISYN3A_0350(),GenBank
+JCVISYN3A_0352-MONOMER,Uncharacterized protein,JCVISYN3A_0352(),GenBank
+JCVISYN3A_0353-MONOMER,Uncharacterized protein,JCVISYN3A_0353(),GenBank
+JCVISYN3A_0359-MONOMER,Ribonuclease Y,JCVISYN3A_0359(),GenBank
+JCVISYN3A_0360-MONOMER,Signal recognition particle protein,JCVISYN3A_0360(),GenBank
+JCVISYN3A_0361-MONOMER,23S rRNA (pseudouridine(1915)-N3)-methyltransferase,JCVISYN3A_0361(2),GenBank
+JCVISYN3A_0362-MONOMER,30S ribosomal protein S16,JCVISYN3A_0362(1),GenBank
+JCVISYN3A_0363-MONOMER,16S rRNA processing protein,JCVISYN3A_0363(),GenBank
+JCVISYN3A_0364-MONOMER,tRNA (guanosine(37)-N1)-methyltransferase,JCVISYN3A_0364(2),GenBank
+JCVISYN3A_0365-MONOMER,50S ribosomal protein L19,JCVISYN3A_0365(1),GenBank
+JCVISYN3A_0366-MONOMER,L16-binding dependent 50S subunit-maturation GTPase,JCVISYN3A_0366(),GenBank
+JCVISYN3A_0371-MONOMER,Flippase A,JCVISYN3A_0371(),GenBank
+JCVISYN3A_0372-MONOMER,Flippase B,JCVISYN3A_0372(),GenBank
+JCVISYN3A_0373-MONOMER,Uncharacterized protein,JCVISYN3A_0373(),GenBank
+JCVISYN3A_0375-MONOMER,Uncharacterized protein,JCVISYN3A_0375(),GenBank
+JCVISYN3A_0376-MONOMER,Uncharacterized protein,JCVISYN3A_0376(),GenBank
+JCVISYN3A_0377-MONOMER,Ribosome GTPase,JCVISYN3A_0377(),GenBank
+JCVISYN3A_0378-MONOMER,NAD(+) synthase,JCVISYN3A_0378(2),GenBank
+JCVISYN3A_0379-MONOMER,Uncharacterized protein,JCVISYN3A_0379(),GenBank
+JCVISYN3A_0380-MONOMER,Nicotinate (nicotinamide) nucleotide adenylyltransferase,JCVISYN3A_0380(),GenBank
+JCVISYN3A_0381-MONOMER,5'-Methylthioadenosine nucleosidase,JCVISYN3A_0381(2),GenBank
+JCVISYN3A_0382-MONOMER,Deoxynucleoside kinase,JCVISYN3A_0382(),GenBank
+JCVISYN3A_0387-MONOMER,tRNA 2-thiouridine(34) synthase,JCVISYN3A_0387(1),GenBank
+JCVISYN3A_0388-MONOMER,Uncharacterized protein,JCVISYN3A_0388(),GenBank
+JCVISYN3A_0389-MONOMER,Uncharacterized protein,JCVISYN3A_0389(),GenBank
+JCVISYN3A_0390-MONOMER,Methionyl-tRNA formyltransferase,JCVISYN3A_0390(1),GenBank
+JCVISYN3A_0391-MONOMER,Elongation factor P,JCVISYN3A_0391(),GenBank
+JCVISYN3A_0392-MONOMER,Uncharacterized protein,JCVISYN3A_0392(),GenBank
+JCVISYN3A_0394-MONOMER,Endopeptidase La,JCVISYN3A_0394(),GenBank
+JCVISYN3A_0398-MONOMER,Uncharacterized lipoprotein,JCVISYN3A_0398(),GenBank
+JCVISYN3A_0399-MONOMER,Uncharacterized efflux ABC transporter permease,JCVISYN3A_0399(),GenBank
+JCVISYN3A_0400-MONOMER,Uncharacterized protease,JCVISYN3A_0400(),GenBank
+JCVISYN3A_0401-MONOMER,Uncharacterized peptidase,JCVISYN3A_0401(),GenBank
+JCVISYN3A_0402-MONOMER,rRNA maturation RNase,JCVISYN3A_0402(),GenBank
+JCVISYN3A_0403-MONOMER,Ribosome GTPase,JCVISYN3A_0403(2),GenBank
+JCVISYN3A_0404-MONOMER,DNA repair protein,JCVISYN3A_0404(),GenBank
+JCVISYN3A_0405-MONOMER,Glycine--tRNA ligase,JCVISYN3A_0405(),GenBank
+JCVISYN3A_0406-MONOMER,DNA primase,JCVISYN3A_0406(),GenBank
+JCVISYN3A_0407-MONOMER,RNA polymerase subunit sigma,JCVISYN3A_0407(1),GenBank
+JCVISYN3A_0408-MONOMER,Uncharacterized methyltransferase,JCVISYN3A_0408(),GenBank
+JCVISYN3A_0409-MONOMER,Uncharacterized protein,JCVISYN3A_0409(),GenBank
+JCVISYN3A_0410-MONOMER,Uncharacterized helicase,JCVISYN3A_0410(),GenBank
+JCVISYN3A_0411-MONOMER,Uncharacterized protein,JCVISYN3A_0411(),GenBank
+JCVISYN3A_0412-MONOMER,Uncharacterized protein,JCVISYN3A_0412(),GenBank
+JCVISYN3A_0413-MONOMER,Adenine phosphoribosyltransferase,JCVISYN3A_0413(2),GenBank
+JCVISYN3A_0414-MONOMER,"Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase",JCVISYN3A_0414(1),GenBank
+JCVISYN3A_0415-MONOMER,Chromosome segregation protein,JCVISYN3A_0415(),GenBank
+JCVISYN3A_0416-MONOMER,Uncharacterized protein,JCVISYN3A_0416(),GenBank
+JCVISYN3A_0418-MONOMER,Ribonuclease III,JCVISYN3A_0418(2),GenBank
+JCVISYN3A_0419-MONOMER,Phosphate acyltransferase,JCVISYN3A_0419(1),GenBank
+JCVISYN3A_0420-MONOMER,Fatty acid kinase subunit A,JCVISYN3A_0420(),GenBank
+JCVISYN3A_0421-MONOMER,Uncharacterized protein,JCVISYN3A_0421(),GenBank
+JCVISYN3A_0422-MONOMER,50S ribosomal protein L28,JCVISYN3A_0422(),GenBank
+JCVISYN3A_0424-MONOMER,Uncharacterized protein,JCVISYN3A_0424(),GenBank
+JCVISYN3A_0425-MONOMER,Phosphate ABC transporter substrate-binding protein,JCVISYN3A_0425(),GenBank
+JCVISYN3A_0426-MONOMER,Phosphate ABC transporter permease,JCVISYN3A_0426(),GenBank
+JCVISYN3A_0427-MONOMER,Phosphate ABC transporter ATP-binding protein,JCVISYN3A_0427(),GenBank
+JCVISYN3A_0428-MONOMER,Phosphate transport system regulatory protein,JCVISYN3A_0428(),GenBank
+JCVISYN3A_0429-MONOMER,Signal recognition particle-docking protein,JCVISYN3A_0429(1),GenBank
+JCVISYN3A_0430-MONOMER,Uncharacterized DNA-binding protein,JCVISYN3A_0430(),GenBank
+JCVISYN3A_0431-MONOMER,Uncharacterized metallophosphoesterase,JCVISYN3A_0431(),GenBank
+JCVISYN3A_0432-MONOMER,Methionine adenosyltransferase,JCVISYN3A_0432(4),GenBank
+JCVISYN3A_0433-MONOMER,Uncharacterized protein,JCVISYN3A_0433(),GenBank
+JCVISYN3A_0434-MONOMER,23S rRNA (uridine(1939)-m5)-methyltransferase,JCVISYN3A_0434(),GenBank
+JCVISYN3A_0435-MONOMER,Mannose-6-phosphate isomerase,JCVISYN3A_0435(),GenBank
+JCVISYN3A_0437-MONOMER,Putative 3'-5' exoribonuclease,JCVISYN3A_0437(),GenBank
+JCVISYN3A_0438-MONOMER,Uncharacterized protein,JCVISYN3A_0438(),GenBank
+JCVISYN3A_0439-MONOMER,Uncharacterized lipoprotein,JCVISYN3A_0439(),GenBank
+JCVISYN3A_0440-MONOMER,Uncharacterized lipoprotein,JCVISYN3A_0440(),GenBank
+JCVISYN3A_0441-MONOMER,Cysteine desulfurase,JCVISYN3A_0441(),GenBank
+JCVISYN3A_0442-MONOMER,Iron-sulfur cluster assembly scaffold protein,JCVISYN3A_0442(2),GenBank
+JCVISYN3A_0443-MONOMER,5-Formyltetrahydrofolate cyclo-ligase,JCVISYN3A_0443(),GenBank
+JCVISYN3A_0444-MONOMER,Uncharacterized peptidase,JCVISYN3A_0444(),GenBank
+JCVISYN3A_0445-MONOMER,Glucose-6-phosphate isomerase,JCVISYN3A_0445(2),GenBank
+JCVISYN3A_0447-MONOMER,dUTP diphosphatase,JCVISYN3A_0447(),GenBank
+JCVISYN3A_0448-MONOMER,Uncharacterized rRNA methyltransferase,JCVISYN3A_0448(),GenBank
+JCVISYN3A_0451-MONOMER,Glyceraldehyde-3-phosphate dehydrogenase,JCVISYN3A_0451(4),GenBank
+JCVISYN3A_0452-MONOMER,DNA topoisomerase IV subunit B,JCVISYN3A_0452(),GenBank
+JCVISYN3A_0453-MONOMER,DNA topoisomerase IV subunit A,JCVISYN3A_0453(),GenBank
+JCVISYN3A_0475-MONOMER,L-lactate dehydrogenase,JCVISYN3A_0475(),GenBank
+JCVISYN3A_0478-MONOMER,Uncharacterized protein,JCVISYN3A_0478(),GenBank
+JCVISYN3A_0479-MONOMER,Uncharacterized peptidase,JCVISYN3A_0479(),GenBank
+JCVISYN3A_0481-MONOMER,Uncharacterized lipoprotein,JCVISYN3A_0481(),GenBank
+JCVISYN3A_0482-MONOMER,30S ribosomal protein S21,JCVISYN3A_0482(),GenBank
+JCVISYN3A_0154-MONOMER,Uncharacterized peptidase,JCVISYN3A_0154(6),GenBank
+JCVISYN3A_0493-MONOMER,Uncharacterized peptidase,JCVISYN3A_0493(),GenBank
+JCVISYN3A_0494-MONOMER,N-acetylmannosamine-6-phosphate 2-epimerase,JCVISYN3A_0494(),GenBank
+JCVISYN3A_0495-MONOMER,Uncharacterized kinase,JCVISYN3A_0495(),GenBank
+JCVISYN3A_0499-MONOMER,50S ribosomal protein L27,JCVISYN3A_0499(1),GenBank
+JCVISYN3A_0500-MONOMER,Maturation protease for ribosomal protein L27,JCVISYN3A_0500(),GenBank
+JCVISYN3A_0501-MONOMER,50S ribosomal protein L21,JCVISYN3A_0501(1),GenBank
+JCVISYN3A_0503-MONOMER,Uncharacterized protein,JCVISYN3A_0503(),GenBank
+JCVISYN3A_0504-MONOMER,16S rRNA (cytidine(1402)-2'-O)-methyltransferase,JCVISYN3A_0504(),GenBank
+JCVISYN3A_0930-MONOMER,50S ribosomal protein L33,JCVISYN3A_0930(),GenBank
+JCVISYN3A_0505-MONOMER,Uncharacterized lipoprotein,JCVISYN3A_0505(),GenBank
+JCVISYN3A_0511-MONOMER,Uncharacterized protein,JCVISYN3A_0511(),GenBank
+JCVISYN3A_0512-MONOMER,Acyl-phosphate glycerol 3-phosphate acyltransferase,JCVISYN3A_0512(),GenBank
+JCVISYN3A_0513-MONOMER,ACP synthase,JCVISYN3A_0513(2),GenBank
+JCVISYN3A_0515-MONOMER,Cytidine deaminase,JCVISYN3A_0515(),GenBank
+JCVISYN3A_0516-MONOMER,Uncharacterized protein,JCVISYN3A_0516(),GenBank
+JCVISYN3A_0517-MONOMER,Uncharacterized RNA pseudouridine synthase,JCVISYN3A_0517(1),GenBank
+JCVISYN3A_0518-MONOMER,Lipoprotein signal peptidase,JCVISYN3A_0518(),GenBank
+JCVISYN3A_0519-MONOMER,Isoleucine--tRNA ligase,JCVISYN3A_0519(1),GenBank
+JCVISYN3A_0520-MONOMER,Uncharacterized hydrolase,JCVISYN3A_0520(),GenBank
+JCVISYN3A_0521-MONOMER,Cell division protein,JCVISYN3A_0521(),GenBank
+JCVISYN3A_0522-MONOMER,Cell division protein,JCVISYN3A_0522(),GenBank
+JCVISYN3A_0523-MONOMER,Cell division protein,JCVISYN3A_0523(),GenBank
+JCVISYN3A_0524-MONOMER,16S rRNA (cytosine(1402)-N(4))-methyltransferase,JCVISYN3A_0524(),GenBank
+JCVISYN3A_0525-MONOMER,Cell division/cell wall cluster transcriptional repressor,JCVISYN3A_0525(),GenBank
+JCVISYN3A_0526-MONOMER,50S ribosomal protein L32,JCVISYN3A_0526(),GenBank
+JCVISYN3A_0527-MONOMER,Uncharacterized protein,JCVISYN3A_0527(),GenBank
+JCVISYN3A_0528-MONOMER,Phenylalanine--tRNA ligase subunit beta,JCVISYN3A_0528(),GenBank
+JCVISYN3A_0529-MONOMER,Phenylalanine--tRNA ligase subunit alpha,JCVISYN3A_0529(),GenBank
+JCVISYN3A_0530-MONOMER,Uncharacterized protein,JCVISYN3A_0530(),GenBank
+JCVISYN3A_0535-MONOMER,Arginine--tRNA ligase,JCVISYN3A_0535(1),GenBank
+JCVISYN3A_0536-MONOMER,Ribosome recycling factor,JCVISYN3A_0536(1),GenBank
+JCVISYN3A_0537-MONOMER,UMP kinase,JCVISYN3A_0537(6),GenBank
+JCVISYN3A_0538-MONOMER,Uncharacterized protein,JCVISYN3A_0538(),GenBank
+JCVISYN3A_0539-MONOMER,Translation elongation factor Ts,JCVISYN3A_0539(1),GenBank
+JCVISYN3A_0540-MONOMER,30S ribosomal protein S2,JCVISYN3A_0540(1),GenBank
+JCVISYN3A_0541-MONOMER,Molecular chaperone,JCVISYN3A_0541(2),GenBank
+JCVISYN3A_0542-MONOMER,Molecular chaperone,JCVISYN3A_0542(1),GenBank
+JCVISYN3A_0543-MONOMER,Nucleotide exchange factor,JCVISYN3A_0543(2),GenBank
+JCVISYN3A_0544-MONOMER,Heat-inducible transcription repressor,JCVISYN3A_0544(),GenBank
+JCVISYN3A_0545-MONOMER,ATP-dependent Clp protease subunit B,JCVISYN3A_0545(),GenBank
+JCVISYN3A_0548-MONOMER,tRNA (cytidine(34)-2'-O)-methyltransferase,JCVISYN3A_0548(),GenBank
+JCVISYN3A_0549-MONOMER,Non-canonical purine NTP pyrophosphatase,JCVISYN3A_0549(2),GenBank
+JCVISYN3A_0931-MONOMER,Adenylyl-sulfate kinase,JCVISYN3A_0931(2),GenBank
+JCVISYN3A_0592-MONOMER,Uncharacterized protein,JCVISYN3A_0592(),GenBank
+JCVISYN3A_0593-MONOMER,Uncharacterized protein,JCVISYN3A_0593(),GenBank
+JCVISYN3A_0599-MONOMER,Uncharacterized protein,JCVISYN3A_0599(),GenBank
+JCVISYN3A_0600-MONOMER,Ribonuclease J,JCVISYN3A_0600(),GenBank
+JCVISYN3A_0601-MONOMER,Uncharacterized protein,JCVISYN3A_0601(),GenBank
+JCVISYN3A_0604-MONOMER,Uncharacterized protein,JCVISYN3A_0604(),GenBank
+JCVISYN3A_0605-MONOMER,Uncharacterized protein,JCVISYN3A_0605(),GenBank
+JCVISYN3A_0606-MONOMER,Phosphoglycerate kinase,JCVISYN3A_0606(1),GenBank
+JCVISYN3A_0607-MONOMER,Type I glyceraldehyde-3-phosphate dehydrogenase,JCVISYN3A_0607(4),GenBank
+JCVISYN3A_0608-MONOMER,Primosomal protein,JCVISYN3A_0608(),GenBank
+JCVISYN3A_0609-MONOMER,Chromosome replication initiation protein,JCVISYN3A_0609(),GenBank
+JCVISYN3A_0610-MONOMER,DNA-formamidopyrimidine glycosylase,JCVISYN3A_0610(),GenBank
+JCVISYN3A_0611-MONOMER,DNA polymerase I,JCVISYN3A_0611(),GenBank
+JCVISYN3A_0612-MONOMER,DNA polymerase III subunit alpha,JCVISYN3A_0612(),GenBank
+JCVISYN3A_0613-MONOMER,Tyrosine--tRNA ligase,JCVISYN3A_0613(2),GenBank
+JCVISYN3A_0614-MONOMER,Nicotinate phosphoribosyltransferase,JCVISYN3A_0614(),GenBank
+JCVISYN3A_0615-MONOMER,Uncharacterized protein,JCVISYN3A_0615(),GenBank
+JCVISYN3A_0616-MONOMER,Fatty acid binding protein,JCVISYN3A_0616(),GenBank
+JCVISYN3A_0617-MONOMER,Fatty acid binding protein,JCVISYN3A_0617(),GenBank
+JCVISYN3A_0620-MONOMER,Uncharacterized transcriptional regulator,JCVISYN3A_0620(),GenBank
+JCVISYN3A_0621-MONOMER,Acyl carrier protein,JCVISYN3A_0621(1),GenBank
+JCVISYN3A_0622-MONOMER,Uncharacterized lipoprotein,JCVISYN3A_0622(),GenBank
+JCVISYN3A_0623-MONOMER,Uncharacterized protein,JCVISYN3A_0623(),GenBank
+JCVISYN3A_0634-MONOMER,Leucine--tRNA ligase,JCVISYN3A_0634(1),GenBank
+JCVISYN3A_0636-MONOMER,Uncharacterized lipoprotein,JCVISYN3A_0636(),GenBank
+JCVISYN3A_0637-MONOMER,30S ribosomal protein S9,JCVISYN3A_0637(1),GenBank
+JCVISYN3A_0638-MONOMER,50S ribosomal protein L13,JCVISYN3A_0638(1),GenBank
+JCVISYN3A_0639-MONOMER,Uncharacterized efflux ABC transporter permease,JCVISYN3A_0639(),GenBank
+JCVISYN3A_0640-MONOMER,tRNA pseudouridine(38-40) synthase,JCVISYN3A_0640(2),GenBank
+JCVISYN3A_0641-MONOMER,ECF transporter T component,JCVISYN3A_0641(),GenBank
+JCVISYN3A_0642-MONOMER,ECF transporter ATPase,JCVISYN3A_0642(),GenBank
+JCVISYN3A_0643-MONOMER,ECF transporter ATPase,JCVISYN3A_0643(),GenBank
+JCVISYN3A_0644-MONOMER,50S ribosomal protein L17,JCVISYN3A_0644(1),GenBank
+JCVISYN3A_0645-MONOMER,DNA-directed RNA polymerase subunit alpha,JCVISYN3A_0645(),GenBank
+JCVISYN3A_0646-MONOMER,30S ribosomal protein S11,JCVISYN3A_0646(1),GenBank
+JCVISYN3A_0647-MONOMER,30S ribosomal protein S13,JCVISYN3A_0647(1),GenBank
+JCVISYN3A_0648-MONOMER,50S ribosomal protein L36,JCVISYN3A_0648(),GenBank
+JCVISYN3A_0649-MONOMER,Translation initiation factor IF-1,JCVISYN3A_0649(1),GenBank
+JCVISYN3A_0650-MONOMER,Type I methionyl aminopeptidase,JCVISYN3A_0650(1),GenBank
+JCVISYN3A_0651-MONOMER,Adenylate kinase,JCVISYN3A_0651(1),GenBank
+JCVISYN3A_0652-MONOMER,Preprotein translocase subunit,JCVISYN3A_0652(),GenBank
+JCVISYN3A_0653-MONOMER,50S ribosomal protein L15,JCVISYN3A_0653(1),GenBank
+JCVISYN3A_0654-MONOMER,30S ribosomal protein S5,JCVISYN3A_0654(1),GenBank
+JCVISYN3A_0655-MONOMER,50S ribosomal protein L18,JCVISYN3A_0655(1),GenBank
+JCVISYN3A_0656-MONOMER,50S ribosomal protein L6,JCVISYN3A_0656(1),GenBank
+JCVISYN3A_0657-MONOMER,30S ribosomal protein S8,JCVISYN3A_0657(1),GenBank
+JCVISYN3A_0658-MONOMER,30S ribosomal protein S14,JCVISYN3A_0658(),GenBank
+JCVISYN3A_0659-MONOMER,50S ribosomal protein L5,JCVISYN3A_0659(1),GenBank
+JCVISYN3A_0660-MONOMER,50S ribosomal protein L24,JCVISYN3A_0660(1),GenBank
+JCVISYN3A_0661-MONOMER,50S ribosomal protein L14,JCVISYN3A_0661(1),GenBank
+JCVISYN3A_0662-MONOMER,30S ribosomal protein S17,JCVISYN3A_0662(1),GenBank
+JCVISYN3A_0663-MONOMER,50S ribosomal protein L29,JCVISYN3A_0663(),GenBank
+JCVISYN3A_0664-MONOMER,50S ribosomal protein L16,JCVISYN3A_0664(1),GenBank
+JCVISYN3A_0665-MONOMER,30S ribosomal protein S3,JCVISYN3A_0665(1),GenBank
+JCVISYN3A_0666-MONOMER,50S ribosomal protein L22,JCVISYN3A_0666(1),GenBank
+JCVISYN3A_0667-MONOMER,30S ribosomal protein S19,JCVISYN3A_0667(1),GenBank
+JCVISYN3A_0668-MONOMER,50S ribosomal protein L2,JCVISYN3A_0668(1),GenBank
+JCVISYN3A_0669-MONOMER,50S ribosomal protein L23,JCVISYN3A_0669(),GenBank
+JCVISYN3A_0670-MONOMER,50S ribosomal protein L4,JCVISYN3A_0670(1),GenBank
+JCVISYN3A_0671-MONOMER,50S ribosomal protein L3,JCVISYN3A_0671(1),GenBank
+JCVISYN3A_0672-MONOMER,30S ribosomal protein S10,JCVISYN3A_0672(1),GenBank
+JCVISYN3A_0684-MONOMER,"Bifunctional 5,10-methylene-tetrahydrofolate dehydrogenase/5,10-methylene-tetrahydrofolate cyclohydrolase",JCVISYN3A_0684(2),GenBank
+JCVISYN3A_0685-MONOMER,Sodium transporter,JCVISYN3A_0685(),GenBank
+JCVISYN3A_0686-MONOMER,Potassium transporter,JCVISYN3A_0686(),GenBank
+JCVISYN3A_0687-MONOMER,Glutamyl-tRNA amidotransferase subunit B,JCVISYN3A_0687(),GenBank
+JCVISYN3A_0688-MONOMER,Glutamyl-tRNA amidotransferase subunit A,JCVISYN3A_0688(),GenBank
+JCVISYN3A_0689-MONOMER,Glutamyl-tRNA amidotransferase subunit C,JCVISYN3A_0689(),GenBank
+JCVISYN3A_0690-MONOMER,DNA ligase (NAD(+)),JCVISYN3A_0690(1),GenBank
+JCVISYN3A_0691-MONOMER,Uncharacterized protein,JCVISYN3A_0691(),GenBank
+JCVISYN3A_0692-MONOMER,Uncharacterized pseudouridine synthase,JCVISYN3A_0692(),GenBank
+JCVISYN3A_0693-MONOMER,Uncharacterized protease,JCVISYN3A_0693(),GenBank
+JCVISYN3A_0694-MONOMER,Phosphocarrier protein,JCVISYN3A_0694(),GenBank
+JCVISYN3A_0695-MONOMER,ATP-dependent DNA helicase,JCVISYN3A_0695(),GenBank
+JCVISYN3A_0696-MONOMER,Uncharacterized transporter,JCVISYN3A_0696(),GenBank
+JCVISYN3A_0697-MONOMER,Uncharacterized glycosyl transferase,JCVISYN3A_0697(),GenBank
+JCVISYN3A_0706-MONOMER,Thiamine ABC transporter permease,JCVISYN3A_0706(),GenBank
+JCVISYN3A_0707-MONOMER,Thiamine ABC transporter ATP-binding protein,JCVISYN3A_0707(),GenBank
+JCVISYN3A_0708-MONOMER,Thiamine ABC transporter substrate-binding protein,JCVISYN3A_0708(),GenBank
+JCVISYN3A_0710-MONOMER,Uncharacterized hydrolase,JCVISYN3A_0710(),GenBank
+JCVISYN3A_0726-MONOMER,Glucosamine-6-phosphate deaminase,JCVISYN3A_0726(),GenBank
+JCVISYN3A_0727-MONOMER,Triose-phosphate isomerase,JCVISYN3A_0727(2),GenBank
+JCVISYN3A_0728-MONOMER,Uncharacterized hydrolase,JCVISYN3A_0728(),GenBank
+JCVISYN3A_0729-MONOMER,"Phosphoglycerate mutase (2,3-diphosphoglycerate-independent)",JCVISYN3A_0729(1),GenBank
+JCVISYN3A_0730-MONOMER,Uncharacterized protein,JCVISYN3A_0730(),GenBank
+JCVISYN3A_0732-MONOMER,Deoxyribose-phosphate aldolase,JCVISYN3A_0732(1),GenBank
+JCVISYN3A_0733-MONOMER,Phosphopentomutase,JCVISYN3A_0733(1),GenBank
+JCVISYN3A_0747-MONOMER,Purine-nucleoside phosphorylase,JCVISYN3A_0747(6),GenBank
+JCVISYN3A_0771-MONOMER,Ribonucleotide-diphosphate reductase subunit alpha,JCVISYN3A_0771(),GenBank
+JCVISYN3A_0772-MONOMER,Ribonucleotide reductase assembly protein,JCVISYN3A_0772(),GenBank
+JCVISYN3A_0773-MONOMER,Ribonucleoside-diphosphate reductase subunit beta,JCVISYN3A_0773(),GenBank
+JCVISYN3A_0774-MONOMER,Preprotein translocase subunit,JCVISYN3A_0774(),GenBank
+JCVISYN3A_0775-MONOMER,Ribonuclease R,JCVISYN3A_0775(),GenBank
+JCVISYN3A_0776-MONOMER,SsrA-binding protein,JCVISYN3A_0776(),GenBank
+JCVISYN3A_0777-MONOMER,Uncharacterized protein,JCVISYN3A_0777(),GenBank
+JCVISYN3A_0778-MONOMER,Uncharacterized protein,JCVISYN3A_0778(),GenBank
+JCVISYN3A_0779-MONOMER,PTS sugar transporter,JCVISYN3A_0779(),GenBank
+JCVISYN3A_0787-MONOMER,Magnesium-translocating P-type ATPase,JCVISYN3A_0787(1),GenBank
+JCVISYN3A_0789-MONOMER,F0F1 ATP synthase subunit delta/epsilon,JCVISYN3A_0789(),GenBank
+JCVISYN3A_0790-MONOMER,F0F1 ATP synthase subunit beta,JCVISYN3A_0790(),GenBank
+JCVISYN3A_0791-MONOMER,F0F1 ATP synthase subunit gamma,JCVISYN3A_0791(),GenBank
+JCVISYN3A_0792-MONOMER,F0F1 ATP synthase subunit alpha,JCVISYN3A_0792(),GenBank
+JCVISYN3A_0793-MONOMER,F0F1 ATP synthase subunit delta,JCVISYN3A_0793(),GenBank
+JCVISYN3A_0794-MONOMER,F0F1 ATP synthase subunit B,JCVISYN3A_0794(),GenBank
+JCVISYN3A_0795-MONOMER,F0F1 ATP synthase subunit C,JCVISYN3A_0795(),GenBank
+JCVISYN3A_0796-MONOMER,F0F1 ATP synthase subunit A,JCVISYN3A_0796(),GenBank
+JCVISYN3A_0797-MONOMER,Uncharacterized protein,JCVISYN3A_0797(),GenBank
+JCVISYN3A_0798-MONOMER,Uracil phosphoribosyltransferase,JCVISYN3A_0798(3),GenBank
+JCVISYN3A_0799-MONOMER,Serine hydroxymethyltransferase,JCVISYN3A_0799(2),GenBank
+JCVISYN3A_0800-MONOMER,Ribose 5-phosphate isomerase B,JCVISYN3A_0800(2),GenBank
+JCVISYN3A_0803-MONOMER,DNA-directed RNA polymerase subunit beta',JCVISYN3A_0803(),GenBank
+JCVISYN3A_0804-MONOMER,DNA-directed RNA polymerase subunit beta,JCVISYN3A_0804(),GenBank
+JCVISYN3A_0805-MONOMER,Uncharacterized protein,JCVISYN3A_0805(),GenBank
+JCVISYN3A_0806-MONOMER,50S ribosomal protein L7/L12,JCVISYN3A_0806(2),GenBank
+JCVISYN3A_0807-MONOMER,50S ribosomal protein L10,JCVISYN3A_0807(1),GenBank
+JCVISYN3A_0809-MONOMER,50S ribosomal protein L1,JCVISYN3A_0809(1),GenBank
+JCVISYN3A_0810-MONOMER,50S ribosomal protein L11,JCVISYN3A_0810(1),GenBank
+JCVISYN3A_0813-MONOMER,UDP-glucose 4-epimerase GalE,JCVISYN3A_0813(2),GenBank
+JCVISYN3A_0814-MONOMER,UDP-galactopyranose mutase,JCVISYN3A_0814(),GenBank
+JCVISYN3A_0817-MONOMER,Uncharacterized DNA-binding protein,JCVISYN3A_0817(),GenBank
+JCVISYN3A_0818-MONOMER,Diacylglyceryl transferase,JCVISYN3A_0818(1),GenBank
+JCVISYN3A_0819-MONOMER,Thioredoxin-disulfide reductase,JCVISYN3A_0819(),GenBank
+JCVISYN3A_0820-MONOMER,Diacylglyceryl transferase,JCVISYN3A_0820(),GenBank
+JCVISYN3A_0821-MONOMER,HPr(Ser) kinase/phosphatase,JCVISYN3A_0821(),GenBank
+JCVISYN3A_0822-MONOMER,Uncharacterized ECF transporter S component,JCVISYN3A_0822(),GenBank
+JCVISYN3A_0823-MONOMER,Dihydrofolate synthase,JCVISYN3A_0823(1),GenBank
+JCVISYN3A_0824-MONOMER,Excinuclease ABC subunit A,JCVISYN3A_0824(),GenBank
+JCVISYN3A_0825-MONOMER,Excinuclease ABC subunit B,JCVISYN3A_0825(),GenBank
+JCVISYN3A_0826-MONOMER,DNA polymerase III subunit delta,JCVISYN3A_0826(),GenBank
+JCVISYN3A_0827-MONOMER,Uncharacterized protein,JCVISYN3A_0827(),GenBank
+JCVISYN3A_0830-MONOMER,Uncharacterized protein,JCVISYN3A_0830(),GenBank
+JCVISYN3A_0831-MONOMER,Phosphoribosylpyrophosphate synthetase,JCVISYN3A_0831(1),GenBank
+JCVISYN3A_0832-MONOMER,Aminoacyl-tRNA hydrolase,JCVISYN3A_0832(),GenBank
+JCVISYN3A_0833-MONOMER,50S ribosomal protein L9,JCVISYN3A_0833(1),GenBank
+JCVISYN3A_0834-MONOMER,Replicative DNA helicase,JCVISYN3A_0834(),GenBank
+JCVISYN3A_0835-MONOMER,Uncharacterized lipoprotein,JCVISYN3A_0835(),GenBank
+JCVISYN3A_0836-MONOMER,Uncharacterized ECF transporter S component,JCVISYN3A_0836(),GenBank
+JCVISYN3A_0837-MONOMER,Cysteine--tRNA ligase,JCVISYN3A_0837(1),GenBank
+JCVISYN3A_0838-MONOMER,23S rRNA (guanosine(2251)-2'-O)-methyltransferase,JCVISYN3A_0838(2),GenBank
+JCVISYN3A_0932-MONOMER,50S ribosomal protein L33,JCVISYN3A_0932(),GenBank
+JCVISYN3A_0839-MONOMER,Preprotein translocase subunit,JCVISYN3A_0839(),GenBank
+JCVISYN3A_0840-MONOMER,Antitermination protein,JCVISYN3A_0840(1),GenBank
+JCVISYN3A_0851-MONOMER,Uncharacterized lipoprotein,JCVISYN3A_0851(),GenBank
+JCVISYN3A_0852-MONOMER,Uncharacterized protein,JCVISYN3A_0852(),GenBank
+JCVISYN3A_0853-MONOMER,Uncharacterized protein,JCVISYN3A_0853(),GenBank
+JCVISYN3A_0859-MONOMER,DNA topoisomerase I,JCVISYN3A_0859(),GenBank
+JCVISYN3A_0870-MONOMER,Uncharacterized C4-dicarboxylate ABC transporter,JCVISYN3A_0870(),GenBank
+JCVISYN3A_0872-MONOMER,Uncharacterized ATPase,JCVISYN3A_0872(),GenBank
+JCVISYN3A_0873-MONOMER,Uncharacterized protein,JCVISYN3A_0873(),GenBank
+JCVISYN3A_0874-MONOMER,16S rRNA (guanine(527)-N(7))-methyltransferase,JCVISYN3A_0874(),GenBank
+JCVISYN3A_0875-MONOMER,CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase,JCVISYN3A_0875(1),GenBank
+JCVISYN3A_0876-MONOMER,Uncharacterized amino acid permease,JCVISYN3A_0876(),GenBank
+JCVISYN3A_0877-MONOMER,Uncharacterized protein,JCVISYN3A_0877(),GenBank
+JCVISYN3A_0878-MONOMER,Uncharacterized amino acid permease,JCVISYN3A_0878(),GenBank
+JCVISYN3A_0879-MONOMER,Magnesium transporter,JCVISYN3A_0879(),GenBank
+JCVISYN3A_0881-MONOMER,Uncharacterized MFS transporter,JCVISYN3A_0881(),GenBank
+JCVISYN3A_0885-MONOMER,tRNA uridine(34) 5-carboxymethylaminomethyl synthesis enzyme,JCVISYN3A_0885(2),GenBank
+JCVISYN3A_0886-MONOMER,Proton-glutamate symporter,JCVISYN3A_0886(),GenBank
+JCVISYN3A_0887-MONOMER,Coenzyme A Disulfide Reductase,JCVISYN3A_0887(),GenBank
+JCVISYN3A_0906-MONOMER,Uncharacterized protein,JCVISYN3A_0906(),GenBank
+JCVISYN3A_0907-MONOMER,Uncharacterized hydrolase,JCVISYN3A_0907(),GenBank
+JCVISYN3A_0908-MONOMER,Membrane protein insertase,JCVISYN3A_0908(),GenBank
+JCVISYN3A_0909-MONOMER,Ribonuclease P protein component,JCVISYN3A_0909(),GenBank
+JCVISYN3A_0910-MONOMER,50S ribosomal protein L34,JCVISYN3A_0910(),GenBank
+GlnS_tri,,JCVISYN3A_0687(1) AND JCVISYN3A_0688(1) AND JCVISYN3A_0689(1),Manual
+PDH_1_CPLX,,JCVISYN3A_0225(24) AND JCVISYN3A_0227(24) AND JCVISYN3A_0228(12),Manual
+PDH_2_CPLX,,JCVISYN3A_0226(24) AND JCVISYN3A_0227(24) AND JCVISYN3A_0228(12),Manual
+proteasome,,JCVISYN3A_0394(),Manual
+RNase_P_cplx,,JCVISYN3A_0909(),Manual
+RNAP-CPLX,DNA-directed RNA polymerase,JCVISYN3A_0128() AND JCVISYN3A_0645() AND JCVISYN3A_0803() AND JCVISYN3A_0804(),GenBank
+CPLX_5FTHFabc-0,5FTHFabc,JCVISYN3A_0641() AND JCVISYN3A_0642() AND JCVISYN3A_0643() AND JCVISYN3A_0822(),iMycoplasma(5FTHFabc)
+CPLX_ACP_transl-0,ACP_transl,JCVISYN3A_0201() AND JCVISYN3A_0621() AND JCVISYN3A_0650(),iMycoplasma(ACP_transl)
+CPLX_ADNabc-0,ADNabc,JCVISYN3A_0008() AND JCVISYN3A_0009() AND JCVISYN3A_0010() AND JCVISYN3A_0011(),iMycoplasma(ADNabc)
+CPLX_ALA4abc-0,ALA4abc,JCVISYN3A_0165() AND JCVISYN3A_0166() AND JCVISYN3A_0167() AND JCVISYN3A_0168() AND JCVISYN3A_0169(),iMycoplasma(ALA4abc)
+CPLX_ATPase-0,ATPase,JCVISYN3A_0789() AND JCVISYN3A_0790() AND JCVISYN3A_0791() AND JCVISYN3A_0792() AND JCVISYN3A_0793() AND JCVISYN3A_0794() AND JCVISYN3A_0795() AND JCVISYN3A_0796(),iMycoplasma(ATPase)
+CPLX_COAabc-0,COAabc,JCVISYN3A_0641() AND JCVISYN3A_0642() AND JCVISYN3A_0643() AND JCVISYN3A_0836(),iMycoplasma(COAabc)
+CPLX_dUTPase_transl-0,dUTPase_transl,JCVISYN3A_0201() AND JCVISYN3A_0447(),iMycoplasma(dUTPase_transl)
+CPLX_FAKr-0,FAKr,JCVISYN3A_0420() AND JCVISYN3A_0616() AND JCVISYN3A_0617(),iMycoplasma(FAKr)
+CPLX_GAMpts-0,GAMpts,JCVISYN3A_0233() AND JCVISYN3A_0694() AND JCVISYN3A_0234() AND JCVISYN3A_0779(),iMycoplasma(GAMpts)
+CPLX_Kt6-0,Kt6,JCVISYN3A_0686() AND JCVISYN3A_0685(),iMycoplasma(Kt6)
+CPLX_NACabc-0,NACabc,JCVISYN3A_0641() AND JCVISYN3A_0642() AND JCVISYN3A_0643() AND JCVISYN3A_0314(),iMycoplasma(NACabc)
+CPLX_P5Pabc-0,P5Pabc,JCVISYN3A_0641() AND JCVISYN3A_0642() AND JCVISYN3A_0643() AND JCVISYN3A_0345(),iMycoplasma(P5Pabc)
+CPLX_PdhC_transl-0,PdhC_transl,JCVISYN3A_0201() AND JCVISYN3A_0227(),iMycoplasma(PdhC_transl)
+CPLX_PHETRS-0,PHETRS,JCVISYN3A_0528(2) AND JCVISYN3A_0529(2),iMycoplasma(PHETRS)
+CPLX_PIabc-0,PIabc,JCVISYN3A_0425() AND JCVISYN3A_0426() AND JCVISYN3A_0427(),iMycoplasma(PIabc)
+CPLX_Protein_transl-0,Protein_transl,JCVISYN3A_0201() AND JCVISYN3A_0650(),iMycoplasma(Protein_transl)
+CPLX_RIBFLVabc-0,RIBFLVabc,JCVISYN3A_0641() AND JCVISYN3A_0642() AND JCVISYN3A_0643() AND JCVISYN3A_0877(),iMycoplasma(RIBFLVabc)
+CPLX_RNDR1-0,RNDR1,JCVISYN3A_0771() AND JCVISYN3A_0772() AND JCVISYN3A_0773(),iMycoplasma(RNDR1)
+CPLX_SPRMabc-0,SPRMabc,JCVISYN3A_0195() AND JCVISYN3A_0196() AND JCVISYN3A_0197(),iMycoplasma(SPRMabc)
+CPLX_THMPPabc-0,THMPPabc,JCVISYN3A_0706() AND JCVISYN3A_0707() AND JCVISYN3A_0708(),iMycoplasma(THMPPabc)
+BSU32680-MONOMER,,JCVISYN3A_0442(2),
+BSU00920-MONOMER,,JCVISYN3A_0126(1),
+BSU15010-MONOMER,,JCVISYN3A_0202(),
+BSU25290-MONOMER,,JCVISYN3A_0403(2),
+BSU28980-MONOMER,,JCVISYN3A_0608(),
+BSU23160-MONOMER,,JCVISYN3A_0329(1),
+BSU00280-MONOMER,,JCVISYN3A_0045(1),
+BSU11610-MONOMER,,JCVISYN3A_0259(6),
+BSU25140-MONOMER,,JCVISYN3A_0410(),
+BSU15080-MONOMER,,JCVISYN3A_0526(),
+BSU02360-MONOMER,,JCVISYN3A_0726(),
+BSU00680-MONOMER,,JCVISYN3A_0216(4),
+BSU24450-MONOMER,,JCVISYN3A_0391(),
+BSU28090-MONOMER,,JCVISYN3A_0260(1),
+BSU11460-MONOMER,,JCVISYN3A_0167(),
+BSU16590-MONOMER,,JCVISYN3A_0301(),
+BSU33900-MONOMER,,JCVISYN3A_0213(2),
+BSU28650-MONOMER,,JCVISYN3A_0448(),
+BSU38860-MONOMER,,JCVISYN3A_0813(2),
+BSU22840-MONOMER,,JCVISYN3A_0348(),
+BSU03320-MONOMER,,JCVISYN3A_0887(),
+BSU28490-MONOMER,,JCVISYN3A_0254(),
+BSU00360-MONOMER,,JCVISYN3A_0504(),
+BSU41000-MONOMER,,JCVISYN3A_0874(),
+BSU39420-MONOMER,,JCVISYN3A_0732(1),
+BSU27320-MONOMER,,JCVISYN3A_0253(1),
+BSU08930-MONOMER,,JCVISYN3A_0548(),
+BSU16120-MONOMER,,JCVISYN3A_0859(),
+BSU22360-MONOMER,,JCVISYN3A_0076(2),
+BSU16600-MONOMER,,JCVISYN3A_0300(1),
+BSU29670-MONOMER,,JCVISYN3A_0613(2),
+BSU33910-MONOMER,,JCVISYN3A_0729(1),
+BSU41010-MONOMER,,JCVISYN3A_0885(2),
+BSU15790-MONOMER,,JCVISYN3A_0262(1),
+BSU16130-MONOMER,,JCVISYN3A_0434(),
+BSU15970-MONOMER,,JCVISYN3A_0430(),
+BSU01230-MONOMER,,JCVISYN3A_0664(1),
+BSU01390-MONOMER,,JCVISYN3A_0649(1),
+BSU25490-MONOMER,,JCVISYN3A_0544(),
+BSU34790-MONOMER,,JCVISYN3A_0819(),
+BSU29180-MONOMER,,JCVISYN3A_0221(4),
+BSU01040-MONOMER,,JCVISYN3A_0807(1),
+BSU29190-MONOMER,,JCVISYN3A_0220(4),
+BSU01050-MONOMER,,JCVISYN3A_0806(2),
+BSU15290-MONOMER,,JCVISYN3A_0522(),
+BSU15130-MONOMER,,JCVISYN3A_0525(),
+BSU28860-MONOMER,,JCVISYN3A_0199(1),
+BSU25180-MONOMER,,JCVISYN3A_0408(),
+BSU28850-MONOMER,,JCVISYN3A_0198(1),
+BSU00410-MONOMER,,JCVISYN3A_0003(),
+BSU10030-MONOMER,,JCVISYN3A_0438(),
+BSU31570-MONOMER,,JCVISYN3A_0008(),
+BSU35160-MONOMER,,JCVISYN3A_0824(),
+BSU16680-MONOMER,,JCVISYN3A_0294(1),
+BSU28360-MONOMER,,JCVISYN3A_0549(2),
+BSU35000-MONOMER,,JCVISYN3A_0821(),
+BSU32050-MONOMER,,JCVISYN3A_0154(6),
+BSU13900-MONOMER,,JCVISYN3A_0694(),
+BSU03130-MONOMER,,JCVISYN3A_0378(2),
+BSU14510-MONOMER,,JCVISYN3A_0686(),
+BSU28200-MONOMER,,JCVISYN3A_0394(),
+BSU16520-MONOMER,,JCVISYN3A_0536(1),
+BSU16920-MONOMER,,JCVISYN3A_0875(1),
+BSU31560-MONOMER,,JCVISYN3A_0009(),
+BSU09540-MONOMER,,JCVISYN3A_0512(),
+BSU30320-MONOMER,,JCVISYN3A_0634(1),
+BSU16050-MONOMER,,JCVISYN3A_0366(),
+BSU34990-MONOMER,,JCVISYN3A_0818(1),
+BSU13890-MONOMER,,JCVISYN3A_0779(),
+BSU29980-MONOMER,,JCVISYN3A_0493(),
+BSU37240-MONOMER,,JCVISYN3A_0147(),
+BSU01470-MONOMER,,JCVISYN3A_0641(),
+BSU15940-MONOMER,,JCVISYN3A_0415(),
+BSU36920-MONOMER,,JCVISYN3A_0800(2),
+BSU15770-MONOMER,,JCVISYN3A_0264(),
+BSU01370-MONOMER,,JCVISYN3A_0651(1),
+BSU01320-MONOMER,,JCVISYN3A_0655(1),
+BSU01210-MONOMER,,JCVISYN3A_0666(1),
+BSU25470-MONOMER,,JCVISYN3A_0542(1),
+BSU01160-MONOMER,,JCVISYN3A_0671(1),
+BSU01020-MONOMER,,JCVISYN3A_0810(1),
+BSU29250-MONOMER,,JCVISYN3A_0139(),
+BSU01130-MONOMER,,JCVISYN3A_0151(1),
+BSU00860-MONOMER,,JCVISYN3A_0545(),
+BSU06610-MONOMER,,JCVISYN3A_0695(),
+BSU00380-MONOMER,,JCVISYN3A_0012(2),
+BSU28950-MONOMER,,JCVISYN3A_0222(),
+BSU32580-MONOMER,,JCVISYN3A_0195(),
+BSU00810-MONOMER,,JCVISYN3A_0063(1),
+BSU00060-MONOMER,,JCVISYN3A_0006(),
+BSU35300-MONOMER,,JCVISYN3A_0095(1),
+BSU24980-MONOMER,,JCVISYN3A_0426(),
+BSU27560-MONOMER,,JCVISYN3A_0288(2),
+BSU17380-MONOMER,,JCVISYN3A_0771(),
+BSU11110-MONOMER,,JCVISYN3A_0616(),
+BSU37230-MONOMER,,JCVISYN3A_0371(),
+BSU08730-MONOMER,,JCVISYN3A_0620(),
+BSU00010-MONOMER,,JCVISYN3A_0001(),
+BSU37070-MONOMER,,JCVISYN3A_0137(1),
+BSU15930-MONOMER,,JCVISYN3A_0418(2),
+BSU16540-MONOMER,,JCVISYN3A_0304(1),
+BSU05940-MONOMER,,JCVISYN3A_0079(),
+BSU01360-MONOMER,,JCVISYN3A_0652(),
+BSU01200-MONOMER,,JCVISYN3A_0667(1),
+BSU01490-MONOMER,,JCVISYN3A_0638(1),
+BSU09310-MONOMER,,JCVISYN3A_0733(1),
+BSU36890-MONOMER,,JCVISYN3A_0798(3),
+BSU25460-MONOMER,,JCVISYN3A_0541(2),
+BSU01180-MONOMER,,JCVISYN3A_0669(),
+BSU03050-MONOMER,,JCVISYN3A_0475(),
+BSU01010-MONOMER,,JCVISYN3A_0840(1),
+BSU00990-MONOMER,,JCVISYN3A_0932(),
+BSU28990-MONOMER,,JCVISYN3A_0609(),
+BSU25130-MONOMER,,JCVISYN3A_0109(),
+BSU00670-MONOMER,,JCVISYN3A_0040(1),
+BSU11450-MONOMER,,JCVISYN3A_0166(),
+BSU28640-MONOMER,,JCVISYN3A_0529(),
+BSU00510-MONOMER,,JCVISYN3A_0831(1),
+BSU00690-MONOMER,,JCVISYN3A_0039(),
+BSU11470-MONOMER,,JCVISYN3A_0168(),
+BSU14610-MONOMER,,JCVISYN3A_0228(),
+BSU00190-MONOMER,,JCVISYN3A_0047(),
+BSU00530-MONOMER,,JCVISYN3A_0832(),
+BSU19630-MONOMER,,JCVISYN3A_0747(6),
+BSU23220-MONOMER,,JCVISYN3A_0327(),
+BSU28500-MONOMER,,JCVISYN3A_0065(1),
+BSU21050-MONOMER,,JCVISYN3A_0350(),
+BSU31350-MONOMER,,JCVISYN3A_0445(2),
+BSU00210-MONOMER,,JCVISYN3A_0046(),
+BSU27390-MONOMER,,JCVISYN3A_0215(),
+BSU16490-MONOMER,,JCVISYN3A_0540(1),
+BSU41060-MONOMER,,JCVISYN3A_0910(),
+BSU40910-MONOMER,,JCVISYN3A_0027(1),
+BSU16670-MONOMER,,JCVISYN3A_0291(1),
+BSU37660-MONOMER,,JCVISYN3A_0229(2),
+BSU12930-MONOMER,,JCVISYN3A_0165(),
+BSU16510-MONOMER,,JCVISYN3A_0537(6),
+BSU37000-MONOMER,,JCVISYN3A_0142(),
+BSU27550-MONOMER,,JCVISYN3A_0287(2),
+BSU16040-MONOMER,,JCVISYN3A_0365(1),
+BSU01440-MONOMER,,JCVISYN3A_0644(1),
+BSU27410-MONOMER,,JCVISYN3A_0163(4),
+BSU40440-MONOMER,,JCVISYN3A_0834(),
+BSU01460-MONOMER,,JCVISYN3A_0642(),
+BSU01310-MONOMER,,JCVISYN3A_0656(1),
+BSU01290-MONOMER,,JCVISYN3A_0658(),
+BSU01150-MONOMER,,JCVISYN3A_0672(1),
+BSU01120-MONOMER,,JCVISYN3A_0150(1),
+BSU10910-MONOMER,,JCVISYN3A_0931(2),
+BSU00960-MONOMER,,JCVISYN3A_0838(2),
+BSU01100-MONOMER,,JCVISYN3A_0148(1),
+BSU08720-MONOMER,,JCVISYN3A_0054(1),
+BSU29080-MONOMER,,JCVISYN3A_0610(),
+BSU39670-MONOMER,,JCVISYN3A_0131(),
+BSU00940-MONOMER,,JCVISYN3A_0837(1),
+BSU11420-MONOMER,,JCVISYN3A_0308(2),
+BSU18090-MONOMER,,JCVISYN3A_0452(),
+BSU32550-MONOMER,,JCVISYN3A_0197(),
+CPLX8J2-168,,JCVISYN3A_0441(),
+BSU06690-MONOMER,,JCVISYN3A_0687(),
+BSU27500-MONOMER,,JCVISYN3A_0387(1),
+BSU34750-MONOMER,,JCVISYN3A_0817(),
+BSU09130-MONOMER,,JCVISYN3A_0886(),
+BSU20070-MONOMER,,JCVISYN3A_0772(),
+BSU00140-MONOMER,,JCVISYN3A_0330(),
+BSU09930-MONOMER,,JCVISYN3A_0437(),
+BSU23210-MONOMER,,JCVISYN3A_0328(),
+BSU30550-MONOMER,,JCVISYN3A_0432(4),
+BSU18070-MONOMER,,JCVISYN3A_0117(1),
+CPLX8J2-202,,JCVISYN3A_0453() AND JCVISYN3A_0452(),
+BSU24310-MONOMER,,JCVISYN3A_0684(2),
+BSU27950-MONOMER,,JCVISYN3A_0500(),
+BSU15890-MONOMER,,JCVISYN3A_0419(1),
+BSU05910-MONOMER,,JCVISYN3A_0270(),
+BSU01480-MONOMER,,JCVISYN3A_0640(2),
+BSU41050-MONOMER,,JCVISYN3A_0909(),
+BSU40900-MONOMER,,JCVISYN3A_0026(),
+BSU15730-MONOMER,,JCVISYN3A_0390(1),
+BSU01330-MONOMER,,JCVISYN3A_0654(1),
+BSU37150-MONOMER,,JCVISYN3A_0129(4),
+CPLX8J2-11,,JCVISYN3A_0528(2) AND JCVISYN3A_0529(2),
+CPLX8J2-248,,JCVISYN3A_0641() AND JCVISYN3A_0642() AND JCVISYN3A_0643(),
+BSU15840-MONOMER,,JCVISYN3A_0420(),
+BSU01170-MONOMER,,JCVISYN3A_0670(1),
+BSU01430-MONOMER,,JCVISYN3A_0645(),
+BSU36830-MONOMER,,JCVISYN3A_0792(),
+BSU15680-MONOMER,,JCVISYN3A_0203(2),
+BSU01280-MONOMER,,JCVISYN3A_0659(1),
+BSU12020-MONOMER,,JCVISYN3A_0435(),
+BSU29230-MONOMER,,JCVISYN3A_0612(),
+BSU03020-MONOMER,,JCVISYN3A_0870(),
+BSU32690-MONOMER,,JCVISYN3A_0441(),
+BSU00820-MONOMER,,JCVISYN3A_0064(2),
+CPLX8J2-257,,JCVISYN3A_0821(),
+BSU06680-MONOMER,,JCVISYN3A_0688(),
+BSU25480-MONOMER,,JCVISYN3A_0543(2),
+BSU15430-MONOMER,,JCVISYN3A_0519(1),
+CPLX8J2-100,,JCVISYN3A_0270(),
+BSU01030-MONOMER,,JCVISYN3A_0809(1),
+BSU27020-MONOMER,,JCVISYN3A_0400(),
+BSU16970-MONOMER,,JCVISYN3A_0431(),
+BSU14560-MONOMER,,JCVISYN3A_0201(),
+BSU28630-MONOMER,,JCVISYN3A_0528(),
+BSU00130-MONOMER,,JCVISYN3A_0061(2),
+BSU25320-MONOMER,,JCVISYN3A_0402(),
+BSU24460-MONOMER,,JCVISYN3A_0305(),
+BSU00340-MONOMER,,JCVISYN3A_0043(),
+BSU24300-MONOMER,,JCVISYN3A_0106(),
+BSU14600-MONOMER,,JCVISYN3A_0227(),
+BSU27940-MONOMER,,JCVISYN3A_0499(1),
+CPLX8J2-9,,JCVISYN3A_0773(2) AND JCVISYN3A_0771(2),
+BSU00020-MONOMER,,JCVISYN3A_0002(),
+BSU33930-MONOMER,,JCVISYN3A_0606(1),
+BSU06620-MONOMER,,JCVISYN3A_0690(1),
+BSU13500-MONOMER,,JCVISYN3A_0685(),
+BSU16960-MONOMER,,JCVISYN3A_0359(),
+BSU33610-MONOMER,,JCVISYN3A_0775(),
+BSU28190-MONOMER,,JCVISYN3A_0247(),
+BSU16610-MONOMER,,JCVISYN3A_0299(),
+BSU33920-MONOMER,,JCVISYN3A_0727(2),
+BSU00070-MONOMER,,JCVISYN3A_0007(),
+BSU37600-MONOMER,,JCVISYN3A_0127(),
+BSU41020-MONOMER,,JCVISYN3A_0081(2),
+BSU16660-MONOMER,,JCVISYN3A_0290(1),
+BSU15990-MONOMER,,JCVISYN3A_0362(1),
+CPLX8J2-14,,JCVISYN3A_0006() AND JCVISYN3A_0007(),
+BSU33600-MONOMER,,JCVISYN3A_0776(),
+BSU22890-MONOMER,,JCVISYN3A_0347(1),
+BSU16500-MONOMER,,JCVISYN3A_0539(1),
+BSU07830-MONOMER,,JCVISYN3A_0302(2),
+BSU15820-MONOMER,,JCVISYN3A_0422(),
+BSU04040-MONOMER,,JCVISYN3A_0710(),
+BSU15980-MONOMER,,JCVISYN3A_0360(),
+BSU31550-MONOMER,,JCVISYN3A_0010(),
+BSU37330-MONOMER,,JCVISYN3A_0535(1),
+BSU01410-MONOMER,,JCVISYN3A_0647(1),
+BSU40920-MONOMER,,JCVISYN3A_0872(),
+BSU36810-MONOMER,,JCVISYN3A_0790(),
+BSU01400-MONOMER,,JCVISYN3A_0648(),
+BSU15650-MONOMER,,JCVISYN3A_0787(1),
+BSU16030-MONOMER,,JCVISYN3A_0364(2),
+BSU01250-MONOMER,,JCVISYN3A_0662(1),
+BSU01260-MONOMER,,JCVISYN3A_0661(1),
+BSU37010-MONOMER,,JCVISYN3A_0141(1),
+BSU25510-MONOMER,,JCVISYN3A_0285(),
+BSU15460-MONOMER,,JCVISYN3A_0517(1),
+BSU29580-MONOMER,,JCVISYN3A_0240(1),
+BSU01450-MONOMER,,JCVISYN3A_0643(),
+BSU25550-MONOMER,,JCVISYN3A_0082(1),
+BSU01300-MONOMER,,JCVISYN3A_0657(1),
+CPLX8J2-40,,JCVISYN3A_0378(2),
+BSU01070-MONOMER,,JCVISYN3A_0804(),
+BSU25580-MONOMER,,JCVISYN3A_0515(),
+BSU25200-MONOMER,,JCVISYN3A_0407(1),
+BSU15140-MONOMER,,JCVISYN3A_0524(),
+BSU28870-MONOMER,,JCVISYN3A_0200(1),
+BSU01110-MONOMER,,JCVISYN3A_0149(1),
+BSU17390-MONOMER,,JCVISYN3A_0773(),
+BSU29090-MONOMER,,JCVISYN3A_0611(),
+BSU18100-MONOMER,,JCVISYN3A_0453(),
+BSU00420-MONOMER,,JCVISYN3A_0004(1),
+BSU27270-MONOMER,,JCVISYN3A_0381(2),
+BSU25210-MONOMER,,JCVISYN3A_0406(),
+BSU03910-MONOMER,,JCVISYN3A_0451(4),
+BSU14530-MONOMER,,JCVISYN3A_0600(),
+BSU24960-MONOMER,,JCVISYN3A_0427(),
+BSU35170-MONOMER,,JCVISYN3A_0825(),
+BSU13910-MONOMER,,JCVISYN3A_0233(1),
+BSU27600-MONOMER,,JCVISYN3A_0414(1),
+BSU27960-MONOMER,,JCVISYN3A_0501(1),
+BSU05920-MONOMER,,JCVISYN3A_0271(),
+BSU35670-MONOMER,,JCVISYN3A_0115(1),
+BSU27650-MONOMER,,JCVISYN3A_0412(),
+BSU34900-MONOMER,,JCVISYN3A_0918(2),
+BSU09290-MONOMER,,JCVISYN3A_0218(4),
+BSU04620-MONOMER,,JCVISYN3A_0513(2),
+BSU28080-MONOMER,,JCVISYN3A_0823(1),
+BSU31750-MONOMER,,JCVISYN3A_0614(),
+BSU16580-MONOMER,,JCVISYN3A_0303(),
+BSU27920-MONOMER,,JCVISYN3A_0377(),
+BSU17890-MONOMER,,JCVISYN3A_0316(2),
+BSU04300-MONOMER,,JCVISYN3A_0113(),
+BSU33540-MONOMER,,JCVISYN3A_0029(),
+BSU16630-MONOMER,,JCVISYN3A_0297(1),
+BSU30380-MONOMER,,JCVISYN3A_0030(),
+BSU33940-MONOMER,,JCVISYN3A_0607(4),
+BSU37060-MONOMER,,JCVISYN3A_0140(1),
+BSU15950-MONOMER,,JCVISYN3A_0429(1),
+BSU29660-MONOMER,,JCVISYN3A_0238(1),
+CPLX8J2-62,,JCVISYN3A_0909(),
+BSU27610-MONOMER,,JCVISYN3A_0413(2),
+BSU40890-MONOMER,,JCVISYN3A_0025(1),
+BSU15780-MONOMER,,JCVISYN3A_0263(1),
+BSU01380-MONOMER,,JCVISYN3A_0650(1),
+BSU01500-MONOMER,,JCVISYN3A_0637(1),
+BSU36900-MONOMER,,JCVISYN3A_0799(2),
+BSU01220-MONOMER,,JCVISYN3A_0665(1),
+BSU40500-MONOMER,,JCVISYN3A_0833(1),
+BSU40230-MONOMER,,JCVISYN3A_0361(2),
+BSU29470-MONOMER,,JCVISYN3A_0230(1),
+BSU01420-MONOMER,,JCVISYN3A_0646(1),
+BSU36820-MONOMER,,JCVISYN3A_0791(),
+BSU01350-MONOMER,,JCVISYN3A_0653(1),
+BSU01270-MONOMER,,JCVISYN3A_0660(1),
+BSU25630-MONOMER,,JCVISYN3A_0380(),
+BSU25560-MONOMER,,JCVISYN3A_0826(),
+BSU01080-MONOMER,,JCVISYN3A_0803(),
+BSU01190-MONOMER,,JCVISYN3A_0668(1),
+CPLX_Kt2r-0,,JCVISYN3A_0686() AND JCVISYN3A_0685(),

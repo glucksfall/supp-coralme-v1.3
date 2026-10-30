@@ -1,0 +1,4 @@
+type	enzymes
+monocistronic	CPLX_dummy
+polycistronic_wout_rRNA	CPLX_dummy
+rRNA_containing	CPLX_dummy

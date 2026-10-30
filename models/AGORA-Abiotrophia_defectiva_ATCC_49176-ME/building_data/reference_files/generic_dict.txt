@@ -1,0 +1,11 @@
+generic_component	enzymes
+generic_16Sm4Cm1402	CPLX_dummy
+generic_16s_rRNAs	RNA_GCWU000182_RS08290,RNA_GCWU000182_RS09510
+generic_23s_rRNAs	RNA_GCWU000182_RS07805
+generic_5s_rRNAs	RNA_GCWU000182_RS01545,RNA_GCWU000182_RS04450,RNA_GCWU000182_RS07800,RNA_GCWU000182_RS08820
+generic_Dus	CPLX_dummy
+generic_LYSINEaaRS	CPLX_dummy
+generic_RF	CPLX_dummy
+generic_RNase	CPLX_dummy
+generic_Tuf	CPLX_dummy
+generic_fes_transfers_complex	CPLX_dummy

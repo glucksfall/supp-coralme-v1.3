@@ -1,0 +1,12 @@
+pathway	enzyme
+bam	CPLX_dummy
+lol	CPLX_dummy
+sec	BSU27650-MONOMER
+sec	BSU35300-MONOMER
+secA	BSU35300-MONOMER
+srp	BSU15950-MONOMER
+srp	BSU35300-MONOMER
+srp_yidC	CPLX_dummy
+tat	CPLX_dummy
+tat_alt	CPLX_dummy
+yidC	CPLX_dummy

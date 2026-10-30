@@ -1,0 +1,10 @@
+subreaction	enzymes
+DnaK_dependent_folding	CPLX_dummy
+GroEL_dependent_folding	CPLX_dummy
+N_terminal_methionine_cleavage	CPLX_dummy
+PrfA_mono_mediated_termination	CPLX_dummy
+PrfB_mono_mediated_termination	CPLX_dummy
+generic_RF_mediated_termination	CPLX_dummy
+peptide_chain_release	CPLX_dummy
+peptide_deformylase_processing	CPLX_dummy
+ribosome_recycler	CPLX_dummy

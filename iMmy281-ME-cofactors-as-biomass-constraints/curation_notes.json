@@ -374,10 +374,22 @@
                 "VALt2r",
                 "VALTRS",
                 "LPLYSabc",
-                "NH3c"
+                "NH3c",
+                "PDH"
             ],
             "importance": "high",
             "to_do": "Make sure the subsystems of these reactions are correct"
+        },
+        {
+            "msg": "Some metabolites have no reactions associated",
+            "triggered_by": [
+                "fe2_c",
+                "mn2_c",
+                "zn2_c",
+                "acala__L_c"
+            ],
+            "importance": "critical",
+            "to_do": "Make sure these metabolites are removed or connected properly"
         }
     ],
     "org.read_optional_file": [

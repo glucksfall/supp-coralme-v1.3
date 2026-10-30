@@ -1,0 +1,2 @@
+Modified_enzyme,Core_enzyme,Modifications,Source
+RNAP-CPLX_mod_zn2(1)_mod_mg2(2),RNAP-CPLX,zn2(1) AND mg2(2),RNA_Polymerase

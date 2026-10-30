@@ -1,0 +1,22 @@
+{
+  "version": "1.2",
+  "dbname": "org",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "iMmy281-ME-cofactors-as-biomass-constituents-Bsubtilis-as-reference/blast_files_and_results//org.faa",
+  "number-of-letters": 158828,
+  "number-of-sequences": 455,
+  "last-updated": "2026-10-30T15:21:00",
+  "number-of-volumes": 1,
+  "bytes-total": 242618,
+  "bytes-to-cache": 163100,
+  "files": [
+    "org.pdb",
+    "org.phr",
+    "org.pin",
+    "org.pot",
+    "org.psq",
+    "org.ptf",
+    "org.pto"
+  ]
+}
