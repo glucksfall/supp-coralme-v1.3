@@ -6,10 +6,10 @@
   "description": "iMmy281-ME-cofactors-as-biomass-constituents/blast_files_and_results//org.faa",
   "number-of-letters": 158828,
   "number-of-sequences": 455,
-  "last-updated": "2026-10-30T15:19:00",
+  "last-updated": "2026-11-04T16:34:00",
   "number-of-volumes": 1,
-  "bytes-total": 242602,
-  "bytes-to-cache": 163084,
+  "bytes-total": 242594,
+  "bytes-to-cache": 163076,
   "files": [
     "org.pdb",
     "org.phr",
