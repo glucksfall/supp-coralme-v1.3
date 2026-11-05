@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Avoid leaking source code
+Supplementary-File-S8.zip
+Supplementary-File-S8
+coralme
